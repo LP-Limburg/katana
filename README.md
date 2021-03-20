@@ -7,6 +7,7 @@ Dit project is in ontwikkeling.
 # Index
 
 1. [Twitter-accounts-TK2021](#Twitter-accounts-TK2021)
+2. [Libertaire-actualiteiten](#Libertaire-actualiteiten)
 
 Twitter-accounts-TK2021
 
@@ -72,7 +73,37 @@ Twitter-accounts-TK2021
 30 Last but not least: https://twitter.com/ArnoWellens
 
 
-#Reddit:
+Libertaire-actualiteiten
+
+
+
+Vrijspreker.nl
+
+Lewrockwell.com
+
+zerohedge.com
+
+reason.com
+
+https://libertarianinstitute.org
+
+mises.org
+
+beinglibertarian.com
+
+cor.ax
+
+antiwar.com
+
+theintercept.com
+
+fee.org
+
+wolfstreet.com
+
+panampost.com (Spaans)
+
+Reddit
 
 
 https://www.reddit.com/r/goldandblack (dev.goldandblack.xyz)
@@ -123,35 +154,7 @@ Aangrenzende Podcasts:
     Scott Horton Show
 
 
-Libertaire nieuws sites en actualiteiten:
 
-
-
-Vrijspreker.nl
-
-Lewrockwell.com
-
-zerohedge.com
-
-reason.com
-
-https://libertarianinstitute.org
-
-mises.org
-
-beinglibertarian.com
-
-cor.ax
-
-antiwar.com
-
-theintercept.com
-
-fee.org
-
-wolfstreet.com
-
-panampost.com (Spaans)
 
 
 
