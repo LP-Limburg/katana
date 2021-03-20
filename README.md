@@ -15,6 +15,7 @@
 5. [Agorisme](#Agorisme)
 6. [Oostenrijkse-school](#Oostenrijkse-school)
 7. [Anarchokapitalisme-starter-pack](#Anarchokapitalisme-starter-pack)
+8. [Alternatieven-alledaagse-dingen](#Alternatieven-alledaagse-dingen)
 
 
 Twitter-accounts-TK2021
@@ -356,7 +357,8 @@ Videos
 
 
 
-Een lijstje alternatieven:
+Alternatieven-alledaagse-dingen
+=====
 
 
 
@@ -420,7 +422,7 @@ Een lijstje alternatieven:
 
 * "Ingognito Mode" ---> VPNs(Gebruik geen NordVPN)
 
-                        - CalyxVPN
+                        - [`CalyxVPN`](https://calyx.net/)
 
                         - Mullvad VPN (betaal met crypto, beste VPN op het moment)
 
@@ -432,7 +434,7 @@ Een lijstje alternatieven:
 
 * Internetten ---> ZeroNet, Safe Network,  I2P & Tor
 
-*apple/google wachtwoord manager —-> Keepassxc
+* Apple/Google wachtwoord manager —-> Keepassxc
 
 
 
