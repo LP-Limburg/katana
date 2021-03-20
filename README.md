@@ -14,6 +14,7 @@
 4. [Libertaire-podcasts](#Libertaire-podcasts)
 5. [Agorisme](#Agorisme)
 6. [Oostenrijkse-school](#Oostenrijkse-school)
+7. [Anarchokapitalisme-starter-pack](#Anarchokapitalisme-starter-pack)
 
 
 Twitter-accounts-TK2021
@@ -146,19 +147,19 @@ Libertaire-podcasts
 
 Aangrenzende Podcasts:
 
-    The Fifth Column
-    Unregistered with Thaddeus Russell
-    The Tom Woods Show
-    Part of the Problem
-    The Quash
-    Liberty Law Talk
-    Dare to Think
-    Counterflow with Buck Johnson
-    Your Welcome with Michael Malice
-    Bound by Oath by the Institute for Justice
-    Short Circuit by the Institute for Justice
-    Rationally Speaking Podcast
-    Scott Horton Show
+* [`The Fifth Column`](http://wethefifth.com/)
+* [`Unregistered with Thaddeus Russell`](http://www.thaddeusrussell.com/podcast)
+* [`The Tom Woods Show`](https://tomwoods.com/podcasts/)
+* [`Part of the Problem`](https://gasdigitalnetwork.com/gdn-show-channels/part-of-the-problem/)
+* [`The Quash`](https://podbay.fm/p/the-quash)
+* [`Liberty Law Talk`](https://lawliberty.org/category/podcast/)
+* [`Dare to Think`](https://mereliberty.com/)
+* [`Counterflow with Buck Johnson`](https://deathtotyrants.libsyn.com/website)
+* [`You're welcome with Michael Malice`](https://gasdigitalnetwork.com/gdn-show-channels/your-welcome/)
+* [`Bound by Oath by the Institute for Justice`](https://ij.org/center-for-judicial-engagement/sc/14th-at-150-podcast/)
+* [`Short Circuit by the Institute for Justice`](https://ij.org/center-for-judicial-engagement/sc/)
+* [`Rationally Speaking Podcast`](http://rationallyspeakingpodcast.org/)
+* [`Scott Horton Show`](https://scotthorton.org/)
 
 
 
@@ -168,28 +169,21 @@ Aangrenzende Podcasts:
 Agorisme
 =======
 
-https://freedomcells.org/
-
-agorism.info
-
-agorist.org
-
-https://www.ft.com/content/911b609a-89f6-11e5-9f8c-a8d619fa707c
+* https://freedomcells.org/
+* https://agorism.info
+* https://agorist.org
+* https://www.ft.com/content/911b609a-89f6-11e5-9f8c-a8d619fa707c
 
 
 Oostenrijkse-school
 =====
 
-Introductie
+* [`Introductie tot de Oostenrijkse school: Economie voor waardeerders`](https://mises.nl/wp-content/uploads/2016/08/OOSTSCHSsylbew.pdf)
 
 
-https://mises.nl/wp-content/uploads/2016/08/OOSTSCHSsylbew.pdf
 
-Henry hazlet, economics in one lesson
-
-
-Anarchokapitalisme starter pack:
-
+Anarchokapitalisme-starter-pack
+=====
 
 Introduction Videos
 
