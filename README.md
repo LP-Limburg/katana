@@ -1,5 +1,6 @@
-# katana
-Introductie links
+# Libertaire katana LP-Limburg
+
+
 
 
 Dit is een voorlopige versie, die nog in ontwikkeling is.  
@@ -134,13 +135,14 @@ https://www.reddit.com/r/aynrand
 Libertaire-podcasts
 ======
 
-    Dangerous History Podcast
-    EconTalkwith Russ Roberts
-    History Impossible
-    The Bob Murphy Show
-    V voor Valentine 
-    https://www.youtube.com/channel/UC8ewiXhsWfnBENJQLCIxRIQ
+* [`Dangerous History Podcast`](http://profcj.org/)
+EconTalkwith Russ Roberts
+History Impossible
+The Bob Murphy Show
+V voor Valentine 
+https://www.youtube.com/channel/UC8ewiXhsWfnBENJQLCIxRIQ
 
+[`Dangerous History Podcast`](http://profcj.org/)
 
 Aangrenzende Podcasts:
 
