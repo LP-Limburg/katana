@@ -2,109 +2,114 @@
 Introductie links
 
 
-Dit project is in ontwikkeling. 
+Dit is een voorlopige versie, die nog in ontwikkeling is.  
 
 # Index
 
 1. [Twitter-accounts-TK2021](#Twitter-accounts-TK2021)
 2. [Libertaire-actualiteiten](#libertaire-actualiteiten)
+3. [Reddit](#reddit)
+4. [Libertaire-podcasts](#Libertaire-podcasts)
+5. [Agorisme](#Agorisme)
+6. [Oostenrijkse-school](#Oostenrijkse-school)
+
 
 Twitter-accounts-TK2021
 ====================
 
-1 https://twitter.com/ValentineRW
+1. https://twitter.com/ValentineRW
 
-2 Niet gevonden: Jeroen Weber
+2. Niet gevonden: Jeroen Weber
 
-3 https://twitter.com/R_Schoenmakers_
+3. https://twitter.com/R_Schoenmakers_
 
-4 https://twitter.com/Arnoud_Kuipers
+4. https://twitter.com/Arnoud_Kuipers
 
-5 https://twitter.com/Wijnand_G_MRE
+5. https://twitter.com/Wijnand_G_MRE
 
-6 https://twitter.com/netwerknathan
+6. https://twitter.com/netwerknathan
 
-7 https://twitter.com/wbuising
+7. https://twitter.com/wbuising
 
-8 Niet gevonden: Yu Mei O 
+8. Niet gevonden: Yu Mei O 
 
-9 https://twitter.com/SaskiavanBalen
+9. https://twitter.com/SaskiavanBalen
 
-10 https://twitter.com/marconijweide
+10. https://twitter.com/marconijweide
 
-11 https://twitter.com/WGCornax
+11. https://twitter.com/WGCornax
 
-12 https://twitter.com/Pallieter
+12. https://twitter.com/Pallieter
 
-13 Niet gevonden: Peter Hartkamp
+13. Niet gevonden: Peter Hartkamp
 
-14 Volgens mij niet actief: Romy de Man
+14. Volgens mij niet actief: Romy de Man
 
-15 https://twitter.com/NickideHaaij
+15. https://twitter.com/NickideHaaij
 
-16 Niet gevonden: LolaDeGrunt
+16. Niet gevonden: LolaDeGrunt
 
-17 Niet gevonden GianniKalkman
+17. Niet gevonden GianniKalkman
 
-18 Niet actief: https://twitter.com/winkelhorst_ria
+18. Niet actief: https://twitter.com/winkelhorst_ria
 
-19 Niet gevonden Rutger Hanssens
+19. Niet gevonden Rutger Hanssens
 
-20 https://twitter.com/realTomHuijs
+20. https://twitter.com/realTomHuijs
 
-21 https://twitter.com/arnoinenlp
+21. https://twitter.com/arnoinenlp
 
-22 Niet gevonden: Sander Fischer
+22. Niet gevonden: Sander Fischer
 
-23 https://twitter.com/Joeri_NTxNP
+23. https://twitter.com/Joeri_NTxNP
 
-24 https://twitter.com/QuintusBackhuys
+24. https://twitter.com/QuintusBackhuys
 
-25 https://twitter.com/rkleinsmit
+25. https://twitter.com/rkleinsmit
 
-26 Niet gevonden: Roald Schoenmakers
+26. Niet gevonden: Roald Schoenmakers
 
-27 Niet gevonden: Jip Meijer
+27. Niet gevonden: Jip Meijer
 
-28 Niet gevonden: romanvanree 
+28. Niet gevonden: romanvanree 
 
-29 Niet gevonden: Loes Engels
+29. Niet gevonden: Loes Engels
 
-30 Last but not least: https://twitter.com/ArnoWellens
+30. Last but not least: https://twitter.com/ArnoWellens
 
 
 Libertaire-actualiteiten
 =========
 
 
-Vrijspreker.nl
+https://www.vrijspreker.nl
 
-Lewrockwell.com
+https://www.lewrockwell.com
 
-zerohedge.com
+https://www.zerohedge.com
 
-reason.com
+https://www.reason.com
 
 https://libertarianinstitute.org
 
-mises.org
+https://www.mises.org
 
-beinglibertarian.com
+https://www.beinglibertarian.com
 
-cor.ax
+https://www.cor.ax
 
-antiwar.com
+https://www.antiwar.com
 
-theintercept.com
+https://www.theintercept.com
 
-fee.org
+https://www.fee.org
 
-wolfstreet.com
+https://www.wolfstreet.com
 
-panampost.com (Spaans)
+https://www.panampost.com (Spaans)
 
 Reddit
-
+=======
 
 https://www.reddit.com/r/goldandblack (dev.goldandblack.xyz)
 
@@ -126,8 +131,8 @@ https://www.reddit.com/r/aynrand
 
 
 
-Libertaire podcasts:
-
+Libertaire-podcasts
+======
 
     Dangerous History Podcast
     EconTalkwith Russ Roberts
@@ -158,8 +163,8 @@ Aangrenzende Podcasts:
 
 
 
-Agorisme:
-
+Agorisme
+=======
 
 https://freedomcells.org/
 
@@ -170,8 +175,8 @@ agorist.org
 https://www.ft.com/content/911b609a-89f6-11e5-9f8c-a8d619fa707c
 
 
-Oostenrijkse school:
-
+Oostenrijkse-school
+=====
 
 Introductie
 
