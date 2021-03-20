@@ -7,7 +7,7 @@ Dit project is in ontwikkeling.
 # Index
 
 1. [Twitter-accounts-TK2021](#Twitter-accounts-TK2021)
-2. [Libertaire-actualiteiten](#Libertaire-actualiteiten)
+2. [Libertaire-actualiteiten](#libertaire-actualiteiten)
 
 Twitter-accounts-TK2021
 
