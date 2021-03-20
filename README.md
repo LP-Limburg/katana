@@ -8,7 +8,7 @@ Dit is een voorlopige versie, die nog in ontwikkeling is.
 # Index
 
 1. [Twitter-accounts-TK2021](#Twitter-accounts-TK2021)
-2. [Libertaire-actualiteiten](#libertaire-actualiteiten)
+2. [Libertaire actualiteiten](#libertaire actualiteiten)
 3. [Reddit](#reddit)
 4. [Libertaire-podcasts](#Libertaire-podcasts)
 5. [Agorisme](#Agorisme)
@@ -79,54 +79,54 @@ Twitter-accounts-TK2021
 30. Last but not least: https://twitter.com/ArnoWellens
 
 
-Libertaire-actualiteiten
+Libertaire actualiteiten
 =========
 
 
-https://www.vrijspreker.nl
+* https://www.vrijspreker.nl
 
-https://www.lewrockwell.com
+* https://www.lewrockwell.com
 
-https://www.zerohedge.com
+* https://www.zerohedge.com
 
-https://www.reason.com
+* https://www.reason.com
 
-https://libertarianinstitute.org
+* https://libertarianinstitute.org
 
-https://www.mises.org
+* https://www.mises.org
 
-https://www.beinglibertarian.com
+* https://www.beinglibertarian.com
 
-https://www.cor.ax
+* https://www.cor.ax
 
-https://www.antiwar.com
+* https://www.antiwar.com
 
-https://www.theintercept.com
+* https://www.theintercept.com
 
-https://www.fee.org
+* https://www.fee.org
 
-https://www.wolfstreet.com
+* https://www.wolfstreet.com
 
-https://www.panampost.com (Spaans)
+* https://www.panampost.com (Spaans)
 
 Reddit
 =======
 
-https://www.reddit.com/r/goldandblack (dev.goldandblack.xyz)
+* https://www.reddit.com/r/goldandblack (dev.goldandblack.xyz)
 
-https://www.reddit.com/r/ancap101
+* https://www.reddit.com/r/ancap101
 
-https://www.reddit.com/r/ancapcopypasta
+* https://www.reddit.com/r/ancapcopypasta
 
-https://www.reddit.com/r/shitstatistssay
+* https://www.reddit.com/r/shitstatistssay
 
-https://www.reddit.com/r/libertarian
+* https://www.reddit.com/r/libertarian
 
-https://www.reddit.com/r/voluntarism
+* https://www.reddit.com/r/voluntarism
 
-https://www.reddit.com/r/objectivism 
+* https://www.reddit.com/r/objectivism 
 
-https://www.reddit.com/r/anarcho_capitalism
+* https://www.reddit.com/r/anarcho_capitalism
 
 * https://www.reddit.com/r/aynrand
 
