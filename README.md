@@ -8,7 +8,7 @@ Dit is een voorlopige versie, die nog in ontwikkeling is.
 # Index
 
 1. [Twitter-accounts-TK2021](#Twitter-accounts-TK2021)
-2. [Libertaire actualiteiten](#libertaire actualiteiten)
+2. [Libertaire-actualiteiten](#libertaire-actualiteiten)
 3. [Reddit](#reddit)
 4. [Libertaire-podcasts](#Libertaire-podcasts)
 5. [Agorisme](#Agorisme)
@@ -79,7 +79,7 @@ Twitter-accounts-TK2021
 30. Last but not least: https://twitter.com/ArnoWellens
 
 
-Libertaire actualiteiten
+Libertaire-actualiteiten
 =========
 
 
