@@ -135,16 +135,13 @@ Reddit
 Libertaire-podcasts
 ======
 
-* [`Dangerous History Podcast`](http://profcj.org/)
+* [`V for Valentine`](https://www.youtube.com/c/VforValentine/videos)
+* [`Keith Knight - Don't Tread on Anyone`](https://www.youtube.com/c/KeithKnightDontTreadonAnyone/videos)
 * [`EconTalkwith Russ Roberts`](https://www.econtalk.org/)
+* [`History Impossible`](https://www.historyimpossible.com/)
+* [`The Bob Murphy Show`](https://www.bobmurphyshow.com/)
+* [`Dangerous History Podcast`](http://profcj.org/)
 
-
-History Impossible
-The Bob Murphy Show
-V voor Valentine 
-https://www.youtube.com/channel/UC8ewiXhsWfnBENJQLCIxRIQ
-
-[`Dangerous History Podcast`](http://profcj.org/)
 
 Aangrenzende Podcasts:
 
