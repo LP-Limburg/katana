@@ -128,7 +128,7 @@ https://www.reddit.com/r/objectivism
 
 https://www.reddit.com/r/anarcho_capitalism
 
-https://www.reddit.com/r/aynrand
+* https://www.reddit.com/r/aynrand
 
 
 
@@ -136,7 +136,9 @@ Libertaire-podcasts
 ======
 
 * [`Dangerous History Podcast`](http://profcj.org/)
-EconTalkwith Russ Roberts
+* [`EconTalkwith Russ Roberts`](https://www.econtalk.org/)
+
+
 History Impossible
 The Bob Murphy Show
 V voor Valentine 
