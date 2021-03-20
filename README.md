@@ -10,7 +10,7 @@ Dit project is in ontwikkeling.
 2. [Libertaire-actualiteiten](#libertaire-actualiteiten)
 
 Twitter-accounts-TK2021
-
+====================
 
 1 https://twitter.com/ValentineRW
 
@@ -74,7 +74,7 @@ Twitter-accounts-TK2021
 
 
 Libertaire-actualiteiten
-
+=========
 
 
 Vrijspreker.nl
