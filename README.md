@@ -1,9 +1,10 @@
 # Libertaire katana LP-Limburg
 
 
+(IN ONTWIKKELING)
 
 
-Dit is een voorlopige versie, die nog in ontwikkeling is.  
+
 
 # Index
 
