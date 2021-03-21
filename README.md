@@ -364,7 +364,7 @@ Alternatieven-alledaagse-dingen
 
 * Euro ---> Goud/zilver & Bitcoin/Monero (Exodus wallet om te wisselen tussen crypto zonder KYC)
 
-* Banken ---> Peer-to-Peer (Bisq) 
+* Banken ---> Peer-to-Peer ([`Bisq`](https://bisq.network/) | [`Bisq uitleg`](https://www.youtube.com/watch?v=slhHF1zoLd4)) 
 
 * Debit Card/Credit Card/IDEAL---> PaySafeCard
 
