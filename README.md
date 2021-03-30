@@ -18,9 +18,9 @@
 
 
 # Anarchokapitalisme
-1. [Introduction-Videos](#Introduction-Videos)
+1. [Introductie-Videos](#Introduction-Videos)
 2. [Videos](#Videos)
-3. [Articles](#Articles)
+3. [Artikelen](#Artikelen)
 4. [Boeken](#Boeken)
 
 # Onderwerpen
@@ -29,6 +29,9 @@
 3. [Kartels](#Kartels)
 4. [Vervuiling](#Vervuiling)
 5. [Regulatie](#Regulatie)
+6. [Interessante-personen](#Interessante-personen)
+
+1. [Extra](#Extra)
 
 
 
@@ -130,23 +133,16 @@ Libertaire-actualiteiten
 Reddit
 =======
 
-* https://www.reddit.com/r/goldandblack (dev.goldandblack.xyz)
-
-* https://www.reddit.com/r/ancap101
-
-* https://www.reddit.com/r/ancapcopypasta
-
-* https://www.reddit.com/r/shitstatistssay
-
-* https://www.reddit.com/r/libertarian
-
-* https://www.reddit.com/r/voluntarism
-
-* https://www.reddit.com/r/objectivism 
-
-* https://www.reddit.com/r/anarcho_capitalism
-
-* https://www.reddit.com/r/aynrand
+* [`r/goldandblack`](https://www.reddit.com/r/goldandblack) dev.goldandblack.xyz
+* [`r/ancap101`](https://www.reddit.com/r/ancap101)
+* [`r/ancapcopypasta`](https://www.reddit.com/r/ancapcopypasta)
+* [`r/shitstatistssay`](https://www.reddit.com/r/shitstatistssay)
+* [`r/voluntarism`](https://www.reddit.com/r/voluntarism)
+* [`r/objectivism`](https://www.reddit.com/r/objectivism)
+* [`r/anarcho_capitalism`](https://www.reddit.com/r/anarcho_capitalism)
+* [`r/aynrand`](https://www.reddit.com/r/aynrand)
+* [`r/prospera`](https://www.reddit.com/r/prospera)
+* [`r/liberland`](https://www.reddit.com/r/liberland)
 
 
 
@@ -345,7 +341,7 @@ Alternatieven-voor-alledaagse-dingen
 Anarchokapitalisme-starter-pack
 =====
 
-Introduction-Videos
+Introductie-Videos
 =====
 
 * [`How to Privatize Everything`](https://youtu.be/S4CcannofnY?list=PL4D57CD110446F6C6) [7:32 min] by David D. Friedman
@@ -380,7 +376,7 @@ Videos
 
 
 
-Articles
+Artikelen
 ====
 
 * [`Libertarian Anarchism: Responses to Ten Objections`](https://www.lewrockwell.com/2004/08/roderick-t-long/libertarian-anarchism/) by Roderick T. Long
@@ -539,7 +535,8 @@ The Cost of Federal Regulation by National Association of Manufacturers
 
 
 
-Interessante personen
+Interessante-personen
+=====
 
 Please note that not all of these thinkers are anarcho-capitalists, but they may have contributed works which lead into or contribute to AnCap philosophy.
 
@@ -554,8 +551,21 @@ Please note that not all of these thinkers are anarcho-capitalists, but they may
     		Ayn Rand - Atlas Shrugged, Capitalism, the Unknown Ideal
 
 
+#Extra
+=====
 
-
+* [`Panarchisme`](https://en.wikipedia.org/wiki/Panarchy#Freely_choosing_government)
+* [`Cheran`](https://en.wikipedia.org/wiki/Cher%C3%A1n)
+* [``]()
+* [``]()
+* [``]()
+* [``]()
+* [``]()
+* [``]()
+* [``]()
+* [``]()
+* [``]()
+* [``]()
 
 
 
@@ -568,11 +578,11 @@ Een beknopte overzichtelijke versie voor nieuwkomers maken
 
 Vertalen anarchokapitalistische starterpack (bron r/goldandblack)
 
-Toevoegen beknopte samenvatting van boeken
+Hyperlinkjes maken
 
 Inhoud indexeren 
 
-Creëren GitHub LP-Limburg, daar ik denk dat Github voor nu de beste optie is om dit te onderhouden. 
+Creëren GitHub LP-Limburg
 
 Introductie cryptovaluta?
 
