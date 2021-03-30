@@ -15,7 +15,9 @@
 5. [Agorisme](#Agorisme)
 6. [Oostenrijkse-school](#Oostenrijkse-school)
 7. [Anarchokapitalisme-starter-pack](#Anarchokapitalisme-starter-pack)
-8. [Alternatieven-alledaagse-dingen](#Alternatieven-alledaagse-dingen)
+8. [Introduction-Videos](#Introduction-Videos)
+9. [Articles](#Articles)
+10. [Alternatieven-alledaagse-dingen](#Alternatieven-alledaagse-dingen)
 
 
 Twitter-accounts-TK2021
@@ -186,16 +188,17 @@ Oostenrijkse-school
 Anarchokapitalisme-starter-pack
 =====
 
-Introduction Videos
+Introduction-Videos
+=====
 
-    		How to Privatize Everything [7:32 min] by David D. Friedman
+    		[`How to Privatize Everything`](https://youtu.be/S4CcannofnY?list=PL4D57CD110446F6C6) [7:32 min] by David D. Friedman
     		The Machinery Of Freedom: Illustrated summary [23:15 min] by David D. Friedman, illustrated by Tomasz Kaye
     		Law Without Government [14:20 min] by Robert P. Murphy, illustrated by Tomasz Kaye
 
 
 
-Articles that everyone interested in anarcho-capitalism should be familiar with:
-
+Articles
+====
 
     		Libertarian Anarchism: Responses to Ten Objections by Roderick T. Long
     		Police, Courts, and Laws--on theMarket by David D. Friedman
