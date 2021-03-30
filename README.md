@@ -439,8 +439,8 @@ Boeken
 =====
 
 
-* [`Een studie over de slechtheid van de staat deel 1`](https://www.bol.com/nl/p/een-studie-over-de-slechtheid-van-de-staat-deel-i/9200000046353576/)
-* [`Een studie over de slechtheid van de staat deel 2`](https://www.bol.com/nl/p/studie-over-slechtheid-van-staat-deel-ii-kapitalisme-socialisme/9200000046353566/?bltgh=vt9c0shTeGkhKQe8f7FDjg.4_12.14.ProductTitle)
+
+* [`Lessons for the Young Economist`](https://cdn.mises.org/essons_for_the_young_economist_murphy_0.pdf)
 * Economics in One Lesson by Henry Hazlitt - Hazlitt wrote this book following his stint at the New York Times as an editorialist. His hope was to reduce the whole teaching of economics to a few principles and explain them in ways that people would never forget.
 * The Problem of Political Authority by Michael Huemer by Michael Huemer
 * Anatomy of the State by Murray Rothbard - This gives a succinct account the state following Franz Oppenheimer and Albert Jay Nock, Rothbard regards the state as a predatory entity.
@@ -450,7 +450,8 @@ Boeken
 * No Treason by Lysander Spooner - Murray N. Rothbard considered No Treason, "the greatest case for anarchist political philosophy ever written."
 * The Essential Von Misesby by Murray Rothbard - Another PDF with a description at the target site.
 * The Machinery of Freedom by David D. Friedman - Direct link to the PDF as well as the audio version. This book does a wonderful job of introducing the reader to how a world without government would function and helps to guide you through a few objections to AnCap theory.
-* Defending the Undefendable by Walter Block - Yet another free PDF! This book is probably more suited for people more acquainted with AnCap/Libertarian ideas, but a good read nonetheless.
+* [`Defending the Undefendable`](https://mises.org/library/defending-undefendable) by Walter Block - Yet another free PDF! This book is probably more suited for people more acquainted with AnCap/Libertarian ideas, but a good read nonetheless.
+* [`Defending the Undefendable 2`](https://cdn.mises.org/defending_the_undefendable_ii.pdf)
 * The Market for Liberty by Linda and Morris Tannehill - Often overlooked, this book was the fist book on anarcho-capitalism and has held up well over time.
 * The Sovereign Individual: Mastering the Transition to the Information Age by James Dale Davidson, William Rees-Mogg
 * Anarcho-Capitalism: An Annotated Bibliography by Hans-Hermann Hoppe. Large list of essential reading on anarcho-capitalism.
@@ -459,6 +460,7 @@ Boeken
 * The Economics of Non-state Legal Systems by Bryan Caplan
 * Anarchy and the Law: The Political Economy of Choice by Edward P. Stringham (Editor)
 * The Voluntary City: Choice, Community, and Civil Society by David T. Beito (Editor),Deborah Gordon (Editor)
+
 
 
 
