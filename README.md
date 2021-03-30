@@ -1,4 +1,4 @@
-# Libertaire katana LP-Limburg
+# Libertaire Katana LP-Limburg
 
 
 (IN ONTWIKKELING)
