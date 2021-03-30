@@ -191,9 +191,9 @@ Anarchokapitalisme-starter-pack
 Introduction-Videos
 =====
 
-    		[`How to Privatize Everything`](https://youtu.be/S4CcannofnY?list=PL4D57CD110446F6C6) [7:32 min] by David D. Friedman
-    		The Machinery Of Freedom: Illustrated summary [23:15 min] by David D. Friedman, illustrated by Tomasz Kaye
-    		Law Without Government [14:20 min] by Robert P. Murphy, illustrated by Tomasz Kaye
+* [`How to Privatize Everything`](https://youtu.be/S4CcannofnY?list=PL4D57CD110446F6C6) [7:32 min] by David D. Friedman
+* [`The Machinery Of Freedom: Illustrated summary`](https://www.youtube.com/watch?v=jTYkdEU_B4o&list=PL4D57CD110446F6C6&index=5) [23:15 min] by David D. Friedman, illustrated by Tomasz Kaye
+* [`Law Without Government`](https://youtu.be/A8pcb4xyCic) [14:20 min] by Robert P. Murphy, illustrated by Tomasz Kaye
 
 
 
