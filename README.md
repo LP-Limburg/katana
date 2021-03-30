@@ -17,7 +17,7 @@
 7. [Alternatieven-voor-alledaagse-dingen](#Alternatieven-voor-alledaagse-dingen)
 
 
-# Anarchokapitalisme
+# Introductie
 1. [Introductie-Videos](#Introduction-Videos)
 2. [Videos](#Videos)
 3. [Artikelen](#Artikelen)
