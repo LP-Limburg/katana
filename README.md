@@ -559,7 +559,7 @@ Please note that not all of these thinkers are anarcho-capitalists, but they may
 
 * [`Panarchisme`](https://en.wikipedia.org/wiki/Panarchy#Freely_choosing_government)
 * [`Cheran`](https://en.wikipedia.org/wiki/Cher%C3%A1n)
-* [``]()
+* [`Zwitserse zorg`](https://en.wikipedia.org/wiki/Healthcare_in_Switzerland)
 * [``]()
 * [``]()
 * [``]()
