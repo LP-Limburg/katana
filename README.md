@@ -438,6 +438,7 @@ Artikelen
 Boeken
 =====
 
+![alt text](https://i.imgur.com/ulHYj6m.jpg)
 
 
 * [`Lessons for the Young Economist`](https://cdn.mises.org/essons_for_the_young_economist_murphy_0.pdf)
