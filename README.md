@@ -442,25 +442,25 @@ Boeken
 
 
 * [`Lessons for the Young Economist`](https://cdn.mises.org/essons_for_the_young_economist_murphy_0.pdf)
-* Economics in One Lesson by Henry Hazlitt - Hazlitt wrote this book following his stint at the New York Times as an editorialist. His hope was to reduce the whole teaching of economics to a few principles and explain them in ways that people would never forget.
-* The Problem of Political Authority by Michael Huemer by Michael Huemer
-* Anatomy of the State by Murray Rothbard - This gives a succinct account the state following Franz Oppenheimer and Albert Jay Nock, Rothbard regards the state as a predatory entity.
-* The Law by Frédéric Bastiat - How is it that the law enforcer itself does not have to keep the law? How is it that the law permits the state to lawfully engage in actions which, if undertaken by individuals, would land them in jail?
-* Chaos Theory by Robert Murphy - Murphy takes the role of market insurance in property security and extends the analysis to the security of person. Wonderful piece of reading, here's the audio version also available as free download on iTunes.
-* For a New Liberty: The Libertarian Manifesto by Murray N. Rothbard - Libertarianism is Murray N. Rothbard's radical alternative that says state power is unworkable and immoral and ought to be curbed and finally abolished. Rothbard deploys: natural law, natural rights, Austrian economics, American history, the theory of the state, and more to make his case.
-* No Treason by Lysander Spooner - Murray N. Rothbard considered No Treason, "the greatest case for anarchist political philosophy ever written."
-* The Essential Von Misesby by Murray Rothbard - Another PDF with a description at the target site.
-* The Machinery of Freedom by David D. Friedman - Direct link to the PDF as well as the audio version. This book does a wonderful job of introducing the reader to how a world without government would function and helps to guide you through a few objections to AnCap theory.
+* [`Economics in One Lesson`](https://mises.org/library/economics-one-lesson) by Henry Hazlitt - Hazlitt wrote this book following his stint at the New York Times as an editorialist. His hope was to reduce the whole teaching of economics to a few principles and explain them in ways that people would never forget.
+* [`The Problem of Political Authority`](http://books.google.com/books/about/The_Problem_of_Political_Authority.html?id=4niZl6Qn2SsC) by Michael Huemer by Michael Huemer
+* [`Anatomy of the State`](https://mises.org/library/anatomy-state) by Murray Rothbard - This gives a succinct account the state following Franz Oppenheimer and Albert Jay Nock, Rothbard regards the state as a predatory entity.
+* [`The Law`](https://mises.org/library/law) by Frédéric Bastiat - How is it that the law enforcer itself does not have to keep the law? How is it that the law permits the state to lawfully engage in actions which, if undertaken by individuals, would land them in jail?
+* [`Chaos Theory`](https://mises.org/library/chaos-theory) by Robert Murphy - Murphy takes the role of market insurance in property security and extends the analysis to the security of person. Wonderful piece of reading, here's the audio version also available as free download on iTunes.
+* [`For a New Liberty: The Libertarian Manifesto`](https://mises.org/library/new-liberty-libertarian-manifesto) by Murray N. Rothbard - Libertarianism is Murray N. Rothbard's radical alternative that says state power is unworkable and immoral and ought to be curbed and finally abolished. Rothbard deploys: natural law, natural rights, Austrian economics, American history, the theory of the state, and more to make his case.
+* [`No Treason by Lysander Spooner`](http://praxeology.net/LS-NT-6.htm) - Murray N. Rothbard considered No Treason, "the greatest case for anarchist political philosophy ever written."
+* [`The Essential Von Mises`](https://mises.org/library/essential-von-mises) by Murray Rothbard - Another PDF with a description at the target site.
+* [`The Machinery of Freedom`](http://www.daviddfriedman.com/The_Machinery_of_Freedom_.pdf) by David D. Friedman - Direct link to the PDF as well as the audio version. This book does a wonderful job of introducing the reader to how a world without government would function and helps to guide you through a few objections to AnCap theory.
 * [`Defending the Undefendable`](https://mises.org/library/defending-undefendable) by Walter Block - Yet another free PDF! This book is probably more suited for people more acquainted with AnCap/Libertarian ideas, but a good read nonetheless.
 * [`Defending the Undefendable 2`](https://cdn.mises.org/defending_the_undefendable_ii.pdf)
-* The Market for Liberty by Linda and Morris Tannehill - Often overlooked, this book was the fist book on anarcho-capitalism and has held up well over time.
-* The Sovereign Individual: Mastering the Transition to the Information Age by James Dale Davidson, William Rees-Mogg
-* Anarcho-Capitalism: An Annotated Bibliography by Hans-Hermann Hoppe. Large list of essential reading on anarcho-capitalism.
-* The Ethics of Liberty by Murray N. Rothbard. A Natural Law approach to libertarian ethics.
-* Arguments for Liberty edited by Aaron Ross Powell and Grant Babcock. A compilation of Utilitarianism, Natural Rights, Kantianism, Contractarianism, Rawlsianism, Virtue Ethics, Objectivism, Ethical Intuitionism, and Moral Pluralism approaches to libertarianism.
-* The Economics of Non-state Legal Systems by Bryan Caplan
-* Anarchy and the Law: The Political Economy of Choice by Edward P. Stringham (Editor)
-* The Voluntary City: Choice, Community, and Civil Society by David T. Beito (Editor),Deborah Gordon (Editor)
+* [`The Market for Liberty`]() by Linda and Morris Tannehill - Often overlooked, this book was the fist book on anarcho-capitalism and has held up well over time.
+* [`The Sovereign Individual: Mastering the Transition to the Information Age`](https://www.goodreads.com/book/show/82256.The_Sovereign_Individual) by James Dale Davidson, William Rees-Mogg
+* [`Anarcho-Capitalism: An Annotated Bibliography`](https://www.lewrockwell.com/2001/12/hans-hermann-hoppe/anarcho-capitalism-2/) by Hans-Hermann Hoppe. Large list of essential reading on anarcho-capitalism.
+* [`The Ethics of Liberty`](https://mises.org/library/ethics-liberty) by Murray N. Rothbard. A Natural Law approach to libertarian ethics.
+* [`Arguments for Liberty`](https://www.libertarianism.org/books/arguments-liberty) edited by Aaron Ross Powell and Grant Babcock. A compilation of Utilitarianism, Natural Rights, Kantianism, Contractarianism, Rawlsianism, Virtue Ethics, Objectivism, Ethical Intuitionism, and Moral Pluralism approaches to libertarianism.
+* [`The Economics of Non-state Legal Systems`](http://www.libertarian.co.uk/lapubs/legan/legan026.pdf) by Bryan Caplan
+* [`Anarchy and the Law: The Political Economy of Choice`](https://www.goodreads.com/book/show/614357.Anarchy_and_the_Law) by Edward P. Stringham (Editor)
+* [`The Voluntary City: Choice, Community, and Civil Society`](https://www.goodreads.com/book/show/614254.The_Voluntary_City) by David T. Beito (Editor),Deborah Gordon (Editor)
 
 
 
