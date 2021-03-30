@@ -14,7 +14,7 @@
 4. [Libertaire-podcasts](#Libertaire-podcasts)
 5. [Agorisme](#Agorisme)
 6. [Oostenrijkse-school](#Oostenrijkse-school)
-7. [Alternatieven-alledaagse-dingen](#Alternatieven-alledaagse-dingen)
+7. [Alternatieven-voor-alledaagse-dingen](#Alternatieven-alledaagse-dingen)
 
 
 # Anarchokapitalisme
@@ -197,8 +197,7 @@ Oostenrijkse-school
 * [`Introductie tot de Oostenrijkse school: Economie voor waardeerders`](https://mises.nl/wp-content/uploads/2016/08/OOSTSCHSsylbew.pdf)
 
 
-Alternatieven-alledaagse-dingen
-
+Alternatieven-voor-alledaagse-dingen
 =====
 
 
@@ -299,7 +298,7 @@ Alternatieven-alledaagse-dingen
 
 
 
-* Drugs?---> TailsOS & Tor Browser & PGP encryptie (GPA makkelijkste voor noobs) & gebruik dark.fail om een drugsmarkt te vinden, gebruik altijd 2FA om je account te beveiligen. 
+* Drugdealer---> TailsOS & Tor Browser & PGP encryptie (GPA GUI) | gebruik dark.fail om een drugsmarkt te vinden, gebruik altijd 2FA om jouw account te beveiligen. 
 
 
 
