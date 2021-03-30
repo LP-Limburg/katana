@@ -439,7 +439,8 @@ Boeken
 =====
 
 
-
+* [`Een studie over de slechtheid van de staat deel 1`](https://www.bol.com/nl/p/een-studie-over-de-slechtheid-van-de-staat-deel-i/9200000046353576/)
+* [`Een studie over de slechtheid van de staat deel 2`](https://www.bol.com/nl/p/studie-over-slechtheid-van-staat-deel-ii-kapitalisme-socialisme/9200000046353566/?bltgh=vt9c0shTeGkhKQe8f7FDjg.4_12.14.ProductTitle)
 * Economics in One Lesson by Henry Hazlitt - Hazlitt wrote this book following his stint at the New York Times as an editorialist. His hope was to reduce the whole teaching of economics to a few principles and explain them in ways that people would never forget.
 * The Problem of Political Authority by Michael Huemer by Michael Huemer
 * Anatomy of the State by Murray Rothbard - This gives a succinct account the state following Franz Oppenheimer and Albert Jay Nock, Rothbard regards the state as a predatory entity.
