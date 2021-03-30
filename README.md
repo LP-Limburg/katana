@@ -14,7 +14,7 @@
 4. [Libertaire-podcasts](#Libertaire-podcasts)
 5. [Agorisme](#Agorisme)
 6. [Oostenrijkse-school](#Oostenrijkse-school)
-7. [Alternatieven-voor-alledaagse-dingen](#Alternatieven-alledaagse-dingen)
+7. [Alternatieven-voor-alledaagse-dingen](#Alternatieven-voor-alledaagse-dingen)
 
 
 # Anarchokapitalisme
@@ -198,7 +198,7 @@ Oostenrijkse-school
 
 
 Alternatieven-voor-alledaagse-dingen
-=====
+======
 
 
 
