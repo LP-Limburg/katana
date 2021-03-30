@@ -197,6 +197,151 @@ Oostenrijkse-school
 * [`Introductie tot de Oostenrijkse school: Economie voor waardeerders`](https://mises.nl/wp-content/uploads/2016/08/OOSTSCHSsylbew.pdf)
 
 
+Alternatieven-alledaagse-dingen
+
+=====
+
+
+
+
+
+
+
+* Euro ---> Goud/zilver & Bitcoin/Monero (Exodus wallet om te wisselen tussen crypto zonder KYC)
+
+
+
+* Banken ---> Peer-to-Peer ([`Bisq`](https://bisq.network/) | [`Bisq uitleg`](https://www.youtube.com/watch?v=slhHF1zoLd4)) 
+
+
+
+* Debit Card/Credit Card/IDEAL---> PaySafeCard
+
+
+
+* Digital/App Wallets ---> Hardware Wallet(Air-Gapped &/or "Cold" Wallet)
+
+
+
+* Facebook ---> MeWe
+
+
+
+* Instagram ---> Parler
+
+
+
+* Twitter ---> Minds & Manyverse & Playroma/Mastodon 
+
+
+
+* SnapChat ---> Dust(app)
+
+
+
+* WhatsApp/Telegram ---> Signal & Keybase & Session & TOX & XMPP (jabber) & IRC
+
+
+
+* Slack/Discord ---> Keybase & Threema
+
+
+
+    Reddit —-> ruqqus.com protip darkmode ;) 
+
+
+
+* SMS ---> Signal
+
+
+
+* YouTube --->
+
+
+
+                     - LBRY/Odysee
+                     - PeerTube(Libre.video & Maga.host instances)
+                     - Rumble
+                     - BitChute
+                     - D.Tube
+                     - Full30
+
+
+* YouTube Videos ---> FreeTube(PC) & NewPipe(Mobile)
+
+
+
+* Patron ---> BitPatron & Crypto Direct Donations
+
+
+
+* Kickstarter/Indigogo ---> GunDynamics(Specialized & Limited)
+
+
+
+* Google ----> DuckDuckGo & SearX
+
+
+
+* Chrome Browser ---> Brave Browser & Tor Browser
+
+
+
+* Android/IOS ----> CalyxOS & GrapheneOS
+
+
+
+* Play Store/Apple Store  ---> F-Droid & APKPure
+
+
+
+* Windows/MacOS ---> QubesOS & Linux & BSD
+
+
+
+* Drugs?---> TailsOS & Tor Browser & PGP encryptie (GPA makkelijkste voor noobs) & gebruik dark.fail om een drugsmarkt te vinden, gebruik altijd 2FA om je account te beveiligen. 
+
+
+
+* Gmail ---> Tutanota & ProtonMail
+
+
+
+* "Ingognito Mode" ---> VPNs(Gebruik geen NordVPN)
+
+
+
+                        - [`CalyxVPN`](https://calyx.net/)
+
+
+
+                        - Mullvad VPN (betaal met crypto, beste VPN op het moment)
+
+
+
+                        - WindscribeVPN (gratis)
+
+
+
+* Account Registratie ---> TempMail, get nada mail
+
+
+
+* Samsung/iPhones ---> PinePhones(Linux) & Purism Phones(Linux)
+
+
+
+* Internetten ---> ZeroNet, Safe Network,  I2P & Tor
+
+
+
+* Apple/Google wachtwoord manager —-> Keepassxc
+
+
+
+
+
+
 
 Anarchokapitalisme-starter-pack
 =====
@@ -413,84 +558,7 @@ Please note that not all of these thinkers are anarcho-capitalists, but they may
 
 
 
-Alternatieven-alledaagse-dingen
-=====
 
-
-
-* Euro ---> Goud/zilver & Bitcoin/Monero (Exodus wallet om te wisselen tussen crypto zonder KYC)
-
-* Banken ---> Peer-to-Peer ([`Bisq`](https://bisq.network/) | [`Bisq uitleg`](https://www.youtube.com/watch?v=slhHF1zoLd4)) 
-
-* Debit Card/Credit Card/IDEAL---> PaySafeCard
-
-* Digital/App Wallets ---> Hardware Wallet(Air-Gapped &/or "Cold" Wallet)
-
-* Facebook ---> MeWe
-
-* Instagram ---> Parler
-
-* Twitter ---> Minds & Manyverse & Playroma/Mastodon 
-
-* SnapChat ---> Dust(app)
-
-* WhatsApp/Telegram ---> Signal & Keybase & Session & TOX & XMPP (jabber) & IRC
-
-* Slack/Discord ---> Keybase & Threema
-
-    Reddit —-> ruqqus.com protip darkmode ;) 
-
-* SMS ---> Signal
-
-* YouTube --->
-
-                     - LBRY/Odysee
-
-                     - PeerTube(Libre.video & Maga.host instances)
-
-                     - Rumble
-
-                     - BitChute
-
-                     - D.Tube
-
-                     - Full30
-
-* YouTube Videos ---> FreeTube(PC) & NewPipe(Mobile)
-
-* Patron ---> BitPatron & Crypto Direct Donations
-
-* Kickstarter/Indigogo ---> GunDynamics(Specialized & Limited)
-
-* Google ----> DuckDuckGo & SearX
-
-* Chrome Browser ---> Brave Browser & Tor Browser
-
-* Android/IOS ----> CalyxOS & GrapheneOS
-
-* Play Store/Apple Store  ---> F-Droid & APKPure
-
-* Windows/MacOS ---> QubesOS & Linux & BSD
-
-* Drugs?---> TailsOS & Tor Browser & PGP encryptie (GPA makkelijkste voor noobs) & gebruik dark.fail om een drugsmarkt te vinden, gebruik altijd 2FA om je account te beveiligen. 
-
-* Gmail ---> Tutanota & ProtonMail
-
-* "Ingognito Mode" ---> VPNs(Gebruik geen NordVPN)
-
-                        - [`CalyxVPN`](https://calyx.net/)
-
-                        - Mullvad VPN (betaal met crypto, beste VPN op het moment)
-
-                        - WindscribeVPN (gratis)
-
-* Account Registratie ---> TempMail, get nada mail
-
-* Samsung/iPhones ---> PinePhones(Linux) & Purism Phones(Linux)
-
-* Internetten ---> ZeroNet, Safe Network,  I2P & Tor
-
-* Apple/Google wachtwoord manager —-> Keepassxc
 
 
 
