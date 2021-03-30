@@ -15,13 +15,20 @@
 5. [Agorisme](#Agorisme)
 6. [Oostenrijkse-school](#Oostenrijkse-school)
 7. [Alternatieven-alledaagse-dingen](#Alternatieven-alledaagse-dingen)
-8. [Anarchokapitalisme-starter-pack](#Anarchokapitalisme-starter-pack)
-9. [Introduction-Videos](#Introduction-Videos)
-10. [Articles](#Articles)
-11. [Boeken](#Boeken)
+
+
+# Anarchokapitalisme
+1. [Introduction-Videos](#Introduction-Videos)
+2. [Videos](#Videos)
+3. [Articles](#Articles)
+4. [Boeken](#Boeken)
 
 # Onderwerpen
 1. [Defensie](#Defensie)
+2. [Monopolie](#Monopolie)
+3. [Kartels](#Kartels)
+4. [Vervuiling](#Vervuiling)
+5. [Regulatie](#Regulatie)
 
 
 
@@ -154,7 +161,7 @@ Libertaire-podcasts
 * [`Dangerous History Podcast`](http://profcj.org/)
 
 
-Aangrenzende Podcasts:
+Verwante Podcasts:
 
 * [`The Fifth Column`](http://wethefifth.com/)
 * [`Unregistered with Thaddeus Russell`](http://www.thaddeusrussell.com/podcast)
@@ -200,6 +207,32 @@ Introduction-Videos
 * [`How to Privatize Everything`](https://youtu.be/S4CcannofnY?list=PL4D57CD110446F6C6) [7:32 min] by David D. Friedman
 * [`The Machinery Of Freedom: Illustrated summary`](https://www.youtube.com/watch?v=jTYkdEU_B4o&list=PL4D57CD110446F6C6&index=5) [23:15 min] by David D. Friedman, illustrated by Tomasz Kaye
 * [`Law Without Government`](https://youtu.be/A8pcb4xyCic) [14:20 min] by Robert P. Murphy, illustrated by Tomasz Kaye
+
+Videos
+=====
+
+
+
+
+* [`The Monopoly On Violence documentary`](https://youtu.be/XWAEKQjN-yM)
+
+* [`AnCap Primer Playlist`](https://youtu.be/S4CcannofnY?list=PL4D57CD110446F6C6)
+
+* [`How Government Solved the Health Care Crisis`](https://youtu.be/fFoXyFmmGBQ)
+
+* [`How do Free Markets Regulate Product Safety?`](https://www.youtube.com/watch?v=DvxT7fryE3Q) - Great video explaining the incentive difference between government testing agencies and private ones.
+
+* [`Edgar the Exploiter`](https://www.youtube.com/watch?v=IFbYM2EDz40) - This short animation deals with the minimum wage.
+
+* [`George Ought to Help`](https://www.youtube.com/watch?v=PGMQZEIXBMs) - Neat video discussing coercion and force.
+
+* [`You Can Always Leave`](https://www.youtube.com/watch?v=fasTSY-dB-s) - This is the most exasperating argument that anyone who doesn't like the United States government has probably heard. This video does a good job tackling it.
+
+* [`The Philosophy of Liberty`](https://youtu.be/muHg86Mys7I)
+
+* [`Schools of Thought in Classical Liberalism`](http://www.learnliberty.org/playlists/schools-of-thought-in-classical-liberalism/) - Short video series in which Nigel Ashford articulates five libertarian traditions: the Chicago School, Public Choice, the Austrian School, Natural Rights, and Anarcho-Capitalism.
+
+
 
 
 
@@ -285,7 +318,7 @@ Boeken
 
 
 
-Defense
+Defensie
 =====
 
 Defending a Free Nation by Roderick T. Long - Read by Graham Wright
@@ -300,7 +333,8 @@ Military Defense in a Free Society - Robert Murphy
 
 The Private Production of Defense - Hans-Hermann Hoppe
 
-Monopoly
+Monopolie
+=====
 
 Should Government Regulate Monopolies? by Lynne Kiesling
 
@@ -318,13 +352,15 @@ Economic Calculation and the Limits of Organization by Peter G. Klein
 
 Econ 103 Monopoly and Competition
 
-Cartels
+Kartels
+======
 
 Why Parties to Cartels Cheat Khan Academy
 
 Cartels by Andrew R. Dick
 
-Pollution
+Vervuiling
+=====
 
 How Dirty Laws Trash The Environment
 
@@ -342,7 +378,8 @@ Pollution chapter from THE MACHINERY OF FREEDOM by David Friedman
 
 Pollution chapter from For a New Liberty by Murray Rothbard
 
-Regulation
+Regulatie
+=====
 
 What Is Regulatory Capture? by Susan Dudley
 
@@ -358,7 +395,7 @@ The Cost of Federal Regulation by National Association of Manufacturers
 
 
 
-Persons of Interest
+Interessante personen
 
 Please note that not all of these thinkers are anarcho-capitalists, but they may have contributed works which lead into or contribute to AnCap philosophy.
 
@@ -373,17 +410,6 @@ Please note that not all of these thinkers are anarcho-capitalists, but they may
     		Ayn Rand - Atlas Shrugged, Capitalism, the Unknown Ideal
 
 
-Videos
-
-    		The Monopoly On Violence documentary
-    		AnCap Primer Playlist
-    		How Government Solved the Health Care Crisis
-    		How do Free Markets Regulate Product Safety? - Great video explaining the incentive difference between government testing agencies and private ones.
-    		Edgar the Exploiter - This short animation deals with the minimum wage.
-    		George Ought to Help - Neat video discussing coercion and force.
-    		You Can Always Leave - This is the most exasperating argument that anyone who doesn't like the United States government has probably heard. This video does a good job tackling it.
-    		The Philosophy of Liberty 
-    		Schools of Thought in Classical Liberalism - Short video series in which Nigel Ashford articulates five libertarian traditions: the Chicago School, Public Choice, the Austrian School, Natural Rights, and Anarcho-Capitalism.
 
 
 
