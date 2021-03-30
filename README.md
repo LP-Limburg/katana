@@ -23,6 +23,7 @@
 3. [Artikelen](#Artikelen)
 4. [Boeken](#Boeken)
 
+
 # Onderwerpen
 1. [Defensie](#Defensie)
 2. [Monopolie](#Monopolie)
@@ -31,6 +32,8 @@
 5. [Regulatie](#Regulatie)
 6. [Interessante-personen](#Interessante-personen)
 
+
+#Extra
 1. [Extra](#Extra)
 
 
