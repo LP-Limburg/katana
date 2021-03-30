@@ -14,10 +14,16 @@
 4. [Libertaire-podcasts](#Libertaire-podcasts)
 5. [Agorisme](#Agorisme)
 6. [Oostenrijkse-school](#Oostenrijkse-school)
-7. [Anarchokapitalisme-starter-pack](#Anarchokapitalisme-starter-pack)
-8. [Introduction-Videos](#Introduction-Videos)
-9. [Articles](#Articles)
-10. [Alternatieven-alledaagse-dingen](#Alternatieven-alledaagse-dingen)
+7. [Alternatieven-alledaagse-dingen](#Alternatieven-alledaagse-dingen)
+8. [Anarchokapitalisme-starter-pack](#Anarchokapitalisme-starter-pack)
+9. [Introduction-Videos](#Introduction-Videos)
+10. [Articles](#Articles)
+11. [Boeken](#Boeken)
+
+# Onderwerpen
+1. [Defensie](#Defensie)
+
+
 
 
 Twitter-accounts-TK2021
@@ -200,66 +206,87 @@ Introduction-Videos
 Articles
 ====
 
-    		Libertarian Anarchism: Responses to Ten Objections by Roderick T. Long
-    		Police, Courts, and Laws--on theMarket by David D. Friedman
-    		"Human Rights" as Property Rights by Murray N. Rothbard
-    		A Crusoe Social Philosophy by Murray N. Rothbard
-    		What the State Is Not by Murray N. Rothbard
-    		What the State Is by Murray N. Rothbard
-    		The Right to Self-defense by Murray N. Rothbard
-    		The Candlemakers' Petition by Frédéric Bastiat
-    		How the Price System Works by Henry Hazlitt
-    		I, Pencil: My Family Tree as told to Leonard E. Read
-    		The Truth About the "Robber Barons" by Thomas J. DiLorenzo
-    		The Production of Security by Gustave de Molinari 
-    		Law, Property Rights, and Air Pollution by Murray N. Rothbard
-    		Market Failure: An Argument for and Against Government by David D. Friedman
-    		A Positive Account of Property Rights by David D. Friedman
-    		Anarchy and Efficient Law by David D. Friedman
-    		"Private Creation and Enforcement of Law -- A Historical Case." by David D. Friedman
-    		The Decline and Fall of Private Law in Iceland by Roderick T. Long
-    		But Wouldn't Warlords Take Over? by Robert P. Murphy, read by Graham Wright
-    		The Myth of the Rational Voter: Why Democracies Choose Bad Policies essay by Bryan Caplan
-    		Anarcho-Capitalism and Statist Lock-In By Bryan Caplan
-    		An American Experiment in Anarcho-Capitalism: The Not So Wild, Wild West by Terry Anderson & P.J. Hill
-    		The Enterprise of Customary Law by Bruce L. Benson
-    		Polycentric Law by Tom W. Bell
-    		The Jurisprudence of Polycentric Law by Tom W. Bell
-    		The Problem of Authority essay by Michael Huemer
+* [`Libertarian Anarchism: Responses to Ten Objections`](https://www.lewrockwell.com/2004/08/roderick-t-long/libertarian-anarchism/) by Roderick T. Long
+
+* [`Police, Courts, and Laws--on theMarket`](http://daviddfriedman.com/Libertarian/Machinery_of_Freedom/MofF_Chapter_29.html) by David D. Friedman
+
+* [`"Human Rights" as Property Rights`](https://mises.org/library/human-rights-property-rights) by Murray N. Rothbard
+
+* [`A Crusoe Social Philosophy`](https://mises.org/library/crusoe-social-philosophy) by Murray N. Rothbard
+
+* [`What the State Is Not`](https://mises.org/library/anatomy-state/html/c/31) by Murray N. Rothbard
+
+* [`What the State Is`](https://mises.org/library/anatomy-state/html/c/32) by Murray N. Rothbard
+
+* [`The Right to Self-defense`](https://mises.org/library/right-self-defense) by Murray N. Rothbard
+
+* [`The Candlemakers' Petition`](http://bastiat.org/en/petition.html) by Frédéric Bastiat
+
+* [`How the Price System Works`](https://fee.org/resources/economics-in-one-lesson/#calibre_link-0) by Henry Hazlitt
+
+* [`I, Pencil: My Family Tree as told to`](https://www.econlib.org/library/Essays/rdPncl.html?chapter_num=2#book-reader) Leonard E. Read
+
+* [`The Truth About the "Robber Barons"`](https://mises.org/library/truth-about-robber-barons) by Thomas J. DiLorenzo
+
+* [`The Production of Security`](http://praxeology.net/GM-PS.htm) by Gustave de Molinari 
+
+* [`Law, Property Rights, and Air Pollution`](https://mises.org/library/law-property-rights-and-air-pollution) by Murray N. Rothbard
+
+* [`Market Failure: An Argument for and Against Government`](http://www.daviddfriedman.com/Machinery_3d_Edition/Market%20Failure.htm) by David D. Friedman
+
+* [`A Positive Account of Property Rights`](http://daviddfriedman.com/Academic/Property/Property.html) by David D. Friedman
+
+* [`Anarchy and Efficient Law`](http://www.daviddfriedman.com/Academic/Anarchy_and_Eff_Law/Anarchy_and_Eff_Law.html) by David D. Friedman
+
+* [`"Private Creation and Enforcement of Law -- A Historical Case."`](http://daviddfriedman.com/Academic/Iceland/Iceland.html) by David D. Friedman
+
+* [`The Decline and Fall of Private Law in Iceland`](http://praxeology.net/libertariannation/a/f13l1.html) by Roderick T. Long
+
+* [`But Wouldn't Warlords Take Over?`](https://mises.org/library/wouldnt-warlords-take-over) by Robert P. Murphy, read by Graham Wright
+
+* [`The Myth of the Rational Voter: Why Democracies Choose Bad Policies essay`](https://www.cato.org/publications/policy-analysis/myth-rational-voter-why-democracies-choose-bad-policies) by Bryan Caplan
+
+* [`Anarcho-Capitalism and Statist Lock-In`](https://www.econlib.org/archives/2005/12/anarchocapitali.html) By Bryan Caplan
+
+* [`An American Experiment in Anarcho-Capitalism: The Not So Wild, Wild West`](https://mises.org/library/not-so-wild-wild-west) by Terry Anderson & P.J. Hill
+
+* [`The Enterprise of Customary Law`](https://mises.org/library/enterprise-customary-law) by Bruce L. Benson
+
+* [`Polycentric Law`](https://theihs.org/w91issues/) by Tom W. Bell
+
+* [`The Jurisprudence of Polycentric Law`](http://www.tomwbell.com/writings/JurisPoly.html) by Tom W. Bell
+
+* [`The Problem of Authority`](https://www.cato-unbound.org/2013/03/04/michael-huemer/problem-authority) essay by Michael Huemer
 
 
-Suggested Beginner Books
-
-
-    		Economics in One Lesson by Henry Hazlitt - Hazlitt wrote this book following his stint at the New York Times as an editorialist. His hope was to reduce the whole teaching of economics to a few principles and explain them in ways that people would never forget.
-    		The Problem of Political Authority by Michael Huemer by Michael Huemer
-    		Anatomy of the State by Murray Rothbard - This gives a succinct account the state following Franz Oppenheimer and Albert Jay Nock, Rothbard regards the state as a predatory entity.
-    		The Law by Frédéric Bastiat - How is it that the law enforcer itself does not have to keep the law? How is it that the law permits the state to lawfully engage in actions which, if undertaken by individuals, would land them in jail?
-    		Chaos Theory by Robert Murphy - Murphy takes the role of market insurance in property security and extends the analysis to the security of person. Wonderful piece of reading, here's the audio version also available as free download on iTunes.
-    		For a New Liberty: The Libertarian Manifesto by Murray N. Rothbard - Libertarianism is Murray N. Rothbard's radical alternative that says state power is unworkable and immoral and ought to be curbed and finally abolished. Rothbard deploys: natural law, natural rights, Austrian economics, American history, the theory of the state, and more to make his case.
+Boeken
+=====
 
 
 
-Advanced Reading
-
-
-    		No Treason by Lysander Spooner - Murray N. Rothbard considered No Treason, "the greatest case for anarchist political philosophy ever written."
-    		The Essential Von Misesby by Murray Rothbard - Another PDF with a description at the target site.
-    		The Machinery of Freedom by David D. Friedman - Direct link to the PDF as well as the audio version. This book does a wonderful job of introducing the reader to how a world without government would function and helps to guide you through a few objections to AnCap theory.
-    		For a New Liberty: The Libertarian Manifesto by Murray Rothbard - Society without the nation-state? Rothbard shows that this is the way to peace, prosperity, security, and freedom for all.
-    		Defending the Undefendable by Walter Block - Yet another free PDF! This book is probably more suited for people more acquainted with AnCap/Libertarian ideas, but a good read nonetheless.
-    		The Market for Liberty by Linda and Morris Tannehill - Often overlooked, this book was the fist book on anarcho-capitalism and has held up well over time.
-    		The Sovereign Individual: Mastering the Transition to the Information Age by James Dale Davidson, William Rees-Mogg
-    		Anarcho-Capitalism: An Annotated Bibliography by Hans-Hermann Hoppe. Large list of essential reading on anarcho-capitalism.
-    		The Ethics of Liberty by Murray N. Rothbard. A Natural Law approach to libertarian ethics.
-    		Arguments for Liberty edited by Aaron Ross Powell and Grant Babcock. A compilation of Utilitarianism, Natural Rights, Kantianism, Contractarianism, Rawlsianism, Virtue Ethics, Objectivism, Ethical Intuitionism, and Moral Pluralism approaches to libertarianism.
-    		The Economics of Non-state Legal Systems by Bryan Caplan
-    		Anarchy and the Law: The Political Economy of Choice by Edward P. Stringham (Editor)
-    		The Voluntary City: Choice, Community, and Civil Society by David T. Beito (Editor),Deborah Gordon (Editor)
+* Economics in One Lesson by Henry Hazlitt - Hazlitt wrote this book following his stint at the New York Times as an editorialist. His hope was to reduce the whole teaching of economics to a few principles and explain them in ways that people would never forget.
+* The Problem of Political Authority by Michael Huemer by Michael Huemer
+* Anatomy of the State by Murray Rothbard - This gives a succinct account the state following Franz Oppenheimer and Albert Jay Nock, Rothbard regards the state as a predatory entity.
+* The Law by Frédéric Bastiat - How is it that the law enforcer itself does not have to keep the law? How is it that the law permits the state to lawfully engage in actions which, if undertaken by individuals, would land them in jail?
+* Chaos Theory by Robert Murphy - Murphy takes the role of market insurance in property security and extends the analysis to the security of person. Wonderful piece of reading, here's the audio version also available as free download on iTunes.
+* For a New Liberty: The Libertarian Manifesto by Murray N. Rothbard - Libertarianism is Murray N. Rothbard's radical alternative that says state power is unworkable and immoral and ought to be curbed and finally abolished. Rothbard deploys: natural law, natural rights, Austrian economics, American history, the theory of the state, and more to make his case.
+* No Treason by Lysander Spooner - Murray N. Rothbard considered No Treason, "the greatest case for anarchist political philosophy ever written."
+* The Essential Von Misesby by Murray Rothbard - Another PDF with a description at the target site.
+* The Machinery of Freedom by David D. Friedman - Direct link to the PDF as well as the audio version. This book does a wonderful job of introducing the reader to how a world without government would function and helps to guide you through a few objections to AnCap theory.
+* Defending the Undefendable by Walter Block - Yet another free PDF! This book is probably more suited for people more acquainted with AnCap/Libertarian ideas, but a good read nonetheless.
+* The Market for Liberty by Linda and Morris Tannehill - Often overlooked, this book was the fist book on anarcho-capitalism and has held up well over time.
+* The Sovereign Individual: Mastering the Transition to the Information Age by James Dale Davidson, William Rees-Mogg
+* Anarcho-Capitalism: An Annotated Bibliography by Hans-Hermann Hoppe. Large list of essential reading on anarcho-capitalism.
+* The Ethics of Liberty by Murray N. Rothbard. A Natural Law approach to libertarian ethics.
+* Arguments for Liberty edited by Aaron Ross Powell and Grant Babcock. A compilation of Utilitarianism, Natural Rights, Kantianism, Contractarianism, Rawlsianism, Virtue Ethics, Objectivism, Ethical Intuitionism, and Moral Pluralism approaches to libertarianism.
+* The Economics of Non-state Legal Systems by Bryan Caplan
+* Anarchy and the Law: The Political Economy of Choice by Edward P. Stringham (Editor)
+* The Voluntary City: Choice, Community, and Civil Society by David T. Beito (Editor),Deborah Gordon (Editor)
 
 
 
 Defense
+=====
 
 Defending a Free Nation by Roderick T. Long - Read by Graham Wright
 
