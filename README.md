@@ -213,7 +213,7 @@ Alternatieven-voor-alledaagse-dingen
 
 
 
-* Debit Card/Credit Card/IDEAL---> PaySafeCard
+* Debit Card/Credit Card/IDEAL---> [`PaySafeCard`](https://www.paysafecard.com/nl-nl/)
 
 
 
@@ -221,15 +221,15 @@ Alternatieven-voor-alledaagse-dingen
 
 
 
-* Facebook ---> MeWe
+* Facebook ---> [`MeWe`](https://www.mewe.com)
 
 
 
-* Instagram ---> Parler
+* Instagram ---> [`Parler`](https://www.parler.com)
 
 
 
-* Twitter ---> Minds & Manyverse & Playroma/Mastodon 
+* Twitter ---> [`Minds`](https://www.minds.com) & Manyverse & Playroma/Mastodon 
 
 
 
