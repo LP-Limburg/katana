@@ -431,6 +431,8 @@ Boeken
 
 * [`Lessons for the Young Economist`](https://cdn.mises.org/essons_for_the_young_economist_murphy_0.pdf)
 * [`Economics in One Lesson`](https://mises.org/library/economics-one-lesson) by Henry Hazlitt - Hazlitt wrote this book following his stint at the New York Times as an editorialist. His hope was to reduce the whole teaching of economics to a few principles and explain them in ways that people would never forget.
+* [`Een studie over de slechtheid van de staat deel I`](https://www.bol.com/nl/p/een-studie-over-de-slechtheid-van-de-staat-deel-i/9200000046353576/)
+* [`Een studie over de slechtheid van de staat deel II kapitalisme en socialisme`](https://www.bol.com/nl/p/studie-over-slechtheid-van-staat-deel-ii-kapitalisme-socialisme/9200000046353566/?bltgh=oOxrMQCqVd5NdpT2bbdDXg.4_12.13.ProductTitle)
 * [`The Problem of Political Authority`](http://books.google.com/books/about/The_Problem_of_Political_Authority.html?id=4niZl6Qn2SsC) by Michael Huemer by Michael Huemer
 * [`Anatomy of the State`](https://mises.org/library/anatomy-state) by Murray Rothbard - This gives a succinct account the state following Franz Oppenheimer and Albert Jay Nock, Rothbard regards the state as a predatory entity.
 * [`The Law`](https://mises.org/library/law) by Frédéric Bastiat - How is it that the law enforcer itself does not have to keep the law? How is it that the law permits the state to lawfully engage in actions which, if undertaken by individuals, would land them in jail?
