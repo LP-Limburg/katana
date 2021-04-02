@@ -1,5 +1,6 @@
 # Libertaire Katana LP-Limburg
 
+Verzameling aan resources/info betrekende het libertaire gedachtengoed en gerelateerde onderwerpen
 
 (IN ONTWIKKELING)
 
@@ -33,7 +34,7 @@
 6. [Interessante-personen](#Interessante-personen)
 
 
-#Extra
+# Extra
 1. [Extra](#Extra)
 
 
@@ -308,7 +309,7 @@ Alternatieven-voor-alledaagse-dingen
 
 
 
-- WindscribeVPN (gratis)
+- [`WindscribeVPN`](https://nld.windscribe.com/) (gratis)
 
 
 
@@ -533,17 +534,16 @@ Regulatie
 Interessante-personen
 =====
 
-Please note that not all of these thinkers are anarcho-capitalists, but they may have contributed works which lead into or contribute to AnCap philosophy.
 
-    		Ludwig Von Mises - Notable works include Human Action and Liberalism: In the Classical Tradition.
-    		Milton Friedman - Notable works include Free to Choose and Capitalism and Freedom.
-    		Murray Rothbard - Grandfather of Anarcho-Capitalism. Notable works include Man Economy and State, The Anatomy of the State, For a New Liberty (audio version) and Power & Market.
-    		Frederic Bastiat - Most notable work is The Law.
-    		Henry Hazlitt - Most notable work is Economics in One Lesson.
-    		Friedrich Hayek - Works include The Road to Serfdom and The Constitution of Liberty.
-    		David Friedman - The homepage for Mr. Friedman looks rather sketchy, but it has some good resources on his talks! His most notable work is The Machinery of Freedom.
-    		Hans-Hermann Hoppe - Notable works include Democracy: The God That Failed, The Myth of National Defense, A Theory of Socialism and Capitalism, Economic Science and the Austrian Method
-    		Ayn Rand - Atlas Shrugged, Capitalism, the Unknown Ideal
+* [`Ludwig Von Mises`](https://en.wikipedia.org/wiki/Ludwig_von_Mises) - Notable works include [`Human Action`](https://mises.org/library/human-action-0) and [`Liberalism: In the Classical Tradition.`](https://mises.org/library/liberalism-classical-tradition)
+* [`Milton Friedman`](https://en.wikipedia.org/wiki/Milton_Friedman) - Notable works include [`Free to Choose`]() and [`Capitalism and Freedom.`]()
+* [`Murray Rothbard`](https://en.wikipedia.org/wiki/Murray_Rothbard) - Grandfather of Anarcho-Capitalism. Notable works include [`Man Economy and State`](https://mises.org/library/man-economy-and-state-power-and-market), [`The Anatomy of the State`](https://mises.org/library/anatomy-state), [`For a New Liberty`](https://mises.org/library/new-liberty-libertarian-manifesto) (audio version) and [`Power & Market`](https://mises.org/library/power-and-market-government-and-economy).
+* [`Frederic Bastiat`](https://en.wikipedia.org/wiki/Fr%C3%A9d%C3%A9ric_Bastiat) - Most notable work is [`The Law.`](https://mises.org/library/law)
+* [`Henry Hazlitt`](https://en.wikipedia.org/wiki/Henry_Hazlitt) - Most notable work is [`Economics in One Lesson`](https://mises.org/library/economics-one-lesson).
+* [`Friedrich Hayek`](https://en.wikipedia.org/wiki/Friedrich_Hayek) - Works include [`The Road to Serfdom`](https://mises.org/library/road-serfdom-0) and [`The Constitution of Liberty`](https://iea.org.uk/sites/default/files/publications/files/Hayek%27s%20Constitution%20of%20Liberty.pdf).
+* [`David Friedman`](http://www.daviddfriedman.com/) - The homepage for Mr. Friedman looks rather sketchy, but it has some good resources on his talks! His most notable work is [`The Machinery of Freedom`](http://www.daviddfriedman.com/The_Machinery_of_Freedom_.pdf).
+* [`Hans-Hermann Hoppe`](http://www.hanshoppe.com/) - Notable works include [`Democracy: The God That Failed`](https://mises.org/library/democracy-god-failed-1), [`The Myth of National Defense`](https://mises.org/library/myth-national-defense-essays-theory-and-history-security-production), [`A Theory of Socialism and Capitalism`](https://mises.org/library/theory-socialism-and-capitalism-0), [`Economic Science and the Austrian Method`](https://mises.org/library/economic-science-and-austrian-method)
+* [`Ayn Rand`](https://www.wikiwand.com/en/Ayn_Rand) - [`Atlas Shrugged`](https://www.bol.com/nl/p/atlas-shrugged/1001004000968124/?bltgh=hmu88zmzuYoo1I6AO39Fvg.2_17.19.ProductTitle), [`Capitalism, the Unknown Ideal`](https://www.bol.com/nl/p/capitalism/1001004000808284/?bltgh=l8cpq202FRsjFFefPG9OYA.2_9.10.ProductTitle)
 
 
 #Extra
@@ -571,7 +571,7 @@ TODO:
 
 Een beknopte versie maken
 
-Vertalen ancap starterpack (bron r/goldandblack)
+Vertalen starterpack (bron r/goldandblack)
 
 Hyperlinkjes maken
 
