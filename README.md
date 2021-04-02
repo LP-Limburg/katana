@@ -257,12 +257,12 @@ Alternatieven-voor-alledaagse-dingen
 
 
 
-                     - [`LBRY`](https://lbry.com/)
-                     - [`PeerTube`](https://joinpeertube.org/)(Libre.video & Maga.host instances)
-                     - [`Rumble`](https://rumble.com/)
-                     - [`BitChute`](https://www.bitchute.com/)
-                     - [`D.Tube`](https://d.tube/)
-                     - [`Full30`](https://www.full30.com/)
+- [`LBRY`](https://lbry.com/)
+- [`PeerTube`](https://joinpeertube.org/)(Libre.video & Maga.host instances)
+- [`Rumble`](https://rumble.com/)
+- [`BitChute`](https://www.bitchute.com/)
+- [`D.Tube`](https://d.tube/)
+- [`Full30`](https://www.full30.com/)
 
 
 * YouTube Videos ---> [`FreeTube(PC)`](https://freetubeapp.io/) & [`NewPipe`](https://newpipe.net/)(Mobile)
@@ -272,19 +272,19 @@ Alternatieven-voor-alledaagse-dingen
 
 
 
-* Chrome Browser ---> Brave Browser & Tor Browser
+* Chrome Browser ---> [`Brave Browser`](https://brave.com/) & [`Tor Browser`](https://www.torproject.org/download/)
 
 
 
-* Android/IOS ----> CalyxOS & GrapheneOS
+* Android/IOS ----> [`CalyxOS`](https://calyxos.org/) & [`GrapheneOS`](https://grapheneos.org/)
 
 
 
-* Play Store/Apple Store  ---> F-Droid & APKPure
+* Play Store/Apple Store  ---> [`F-Droid`](https://www.f-droid.org/) & [`APKPure`](https://apkpure.com/)
 
 
 
-* Windows/MacOS ---> QubesOS & Linux & BSD
+* Windows/MacOS ---> [`QubesOS`](https://www.qubes-os.org/) & Linux & BSD
 
 
 
@@ -292,7 +292,7 @@ Alternatieven-voor-alledaagse-dingen
 
 
 
-* Gmail ---> Tutanota & ProtonMail
+* Gmail ---> [`Tutanota`](https://tutanota.com/) & [`ProtonMail`](https://protonmail.com/)
 
 
 
@@ -300,23 +300,23 @@ Alternatieven-voor-alledaagse-dingen
 
 
 
-                        - [`CalyxVPN`](https://calyx.net/)
+- [`CalyxVPN`](https://calyx.net/)
 
 
 
-                        - Mullvad VPN (betaal met crypto, beste VPN op het moment)
+- Mullvad VPN (betaal met crypto, beste VPN op het moment)
 
 
 
-                        - WindscribeVPN (gratis)
+- WindscribeVPN (gratis)
 
 
 
-* Account Registratie ---> TempMail, get nada mail
+* Account Registratie ---> [`TempMail`](https://temp-mail.org/nl/), [`get nada`](https://getnada.com/)
 
 
 
-* Samsung/iPhones ---> PinePhones(Linux) & Purism Phones(Linux)
+* Samsung/iPhones ---> [`PinePhones(Linux)`](https://www.pine64.org/pinephone/) & [`Purism Phones(Linux)`](https://puri.sm/products/librem-5/)
 
 
 
@@ -324,16 +324,13 @@ Alternatieven-voor-alledaagse-dingen
 
 
 
-* Apple/Google wachtwoord manager —-> Keepassxc
+* Apple/Google wachtwoord manager —-> [`Keepassxc`](https://keepassxc.org/)
 
 
 
 
 
 
-
-Anarchokapitalisme-starter-pack
-=====
 
 Introductie-Videos
 =====
