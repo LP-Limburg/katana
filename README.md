@@ -1,6 +1,6 @@
 # Libertaire Katana LP-Limburg
 
-Verzameling van resources/info betrekkende het libertaire gedachtengoed en gerelateerde onderwerpen
+Verzameling van resources/info over het libertaire gedachtengoed en gerelateerde onderwerpen
 
 (IN ONTWIKKELING)
 
