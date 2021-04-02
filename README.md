@@ -23,6 +23,8 @@ Verzameling van resources/info over het libertaire gedachtengoed en gerelateerde
 2. [Videos](#Videos)
 3. [Artikelen](#Artikelen)
 4. [Boeken](#Boeken)
+5. [Objectivisme](#Objectivisme)
+
 
 
 # Onderwerpen
@@ -453,6 +455,16 @@ Boeken
 * [`Anarchy and the Law: The Political Economy of Choice`](https://www.goodreads.com/book/show/614357.Anarchy_and_the_Law) by Edward P. Stringham (Editor)
 * [`The Voluntary City: Choice, Community, and Civil Society`](https://www.goodreads.com/book/show/614254.The_Voluntary_City) by David T. Beito (Editor),Deborah Gordon (Editor)
 
+
+Objectivisme
+======
+
+* [`Introducerende podcast`](https://www.youtube.com/watch?v=SOr1YYRljV8) met Yaron Brook en Lex Fridman
+* [`Yaron Brook Show`](https://www.youtube.com/user/ybrook)
+* [`College objectivisme`](https://www.youtube.com/playlist?list=PLqsoWxJ-qmMvgfp2mg-AAFnCROvtu9NVR) Leonard Peikoff
+* [`Atlas shrugged`](https://www.bol.com/nl/p/atlas-shrugged/1001004000968124/?bltgh=n-hT3LRT415guAjchMVAig.2_17.19.ProductTitle) of [`De kracht van Atlas`](https://www.bol.com/nl/p/de-kracht-van-atlantis/9200000005804522/?s2a=#productTitle)
+* [`Ayn Rand`](https://en.wikipedia.org/wiki/Ayn_Rand)
+* [`Don Watkins`](https://www.youtube.com/c/DonWatkinsLive)
 
 
 
