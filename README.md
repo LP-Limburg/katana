@@ -569,16 +569,10 @@ Please note that not all of these thinkers are anarcho-capitalists, but they may
 TODO:
 
 
-Een beknopte overzichtelijke versie voor nieuwkomers maken
+Een beknopte versie maken
 
-Vertalen anarchokapitalistische starterpack (bron r/goldandblack)
+Vertalen ancap starterpack (bron r/goldandblack)
 
 Hyperlinkjes maken
 
-Inhoud indexeren 
-
-Creëren GitHub LP-Limburg
-
-Introductie cryptovaluta?
-
-Computer veiligheid?
+Inhoud indexeren & ordenen
