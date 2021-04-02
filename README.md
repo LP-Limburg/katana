@@ -458,77 +458,75 @@ Boeken
 Defensie
 =====
 
-Defending a Free Nation by Roderick T. Long - Read by Graham Wright
+* [`Defending a Free Nation by Roderick T. Long`](http://www.freenation.org/a/f22l3.html) - Read by Graham Wright
 
-NATIONAL DEFENSE: THE HARD PROBLEM chapter from The Machinery of Freedom - David D. Friedman
+* [`NATIONAL DEFENSE: THE HARD PROBLEM chapter from The Machinery of Freedom`](http://daviddfriedman.com/The_Machinery_of_Freedom_.pdf#page=71) - David D. Friedman
 
-The Hard Problem: Part II draft chapter from The Machinery of Freedom 3rd Ed - David D. Friedman
+* [`The Hard Problem: Part II draft chapter from The Machinery of Freedom 3rd Ed`](http://www.daviddfriedman.com/Machinery_3d_Edition/The%20Hard%20Problem%20II.htm) - David D. Friedman
 
-Private Defense Chapter from Chaos Theory - Robert Murphy
+* [`Private Defense`](http://mises.org/books/chaostheory.pdf#page=44) - Robert Murphy
 
-Military Defense in a Free Society - Robert Murphy
+* [`Military Defense in a Free Society`](http://youtu.be/zP4f68Va9kA) - Robert Murphy
 
-The Private Production of Defense - Hans-Hermann Hoppe
+* [`The Private Production of Defense`](https://mises.org/library/private-production-defense-0) - Hans-Hermann Hoppe
 
 Monopolie
 =====
 
-Should Government Regulate Monopolies? by Lynne Kiesling
+* [`Should Government Regulate Monopolies?`](http://youtu.be/fujeSSEqj74) by Lynne Kiesling
 
-How to Create Monopolies by Johan Norberg [Dead Wrong]
+* [`Game Theory 101: on monopoly`](https://youtu.be/hSYXkDnCpHM) by William Spaniel
 
-Game Theory 101: on monopoly by William Spaniel
+* [`Government Created Monopolies`](http://youtu.be/r6LLQdpY7wU) by Milton Friedman
 
-Government Created Monopolies by Milton Friedman
+* [`Antitrusts and Monopolies`](https://youtu.be/OLoMXunIwIc) by Benjamin Powell
 
-Antitrusts and Monopolies by Benjamin Powell
+* [`100 Years of Myths about Standard Oil`](http://mises.org/daily/5274) by Gary Galles
 
-100 Years of Myths about Standard Oil by Gary Galles
+* [`Economic Calculation and the Limits of Organization`](http://mises.org/journals/rae/pdf/RAE9_2_1.pdf) by Peter G. Klein
 
-Economic Calculation and the Limits of Organization by Peter G. Klein
-
-Econ 103 Monopoly and Competition
+* [`Econ 103 Monopoly and Competition`](http://econfaculty.gmu.edu/bcaplan/e103/micro9.htm)
 
 Kartels
 ======
 
-Why Parties to Cartels Cheat Khan Academy
+* [`Why Parties to Cartels Cheat Khan Academy`](https://www.youtube.com/watch?v=S6TvRDwgQag)
 
-Cartels by Andrew R. Dick
+* [`Cartels`](http://www.econlib.org/library/Enc/Cartels.html)  by Andrew R. Dick
 
 Vervuiling
 =====
 
-How Dirty Laws Trash The Environment
+* [`How Dirty Laws Trash The Environment`](https://youtu.be/Fxhk4FuU0YQ)
 
-Negative Externalities and the Coase Theorem
+* [`Negative Externalities and the Coase Theorem`](https://youtu.be/zcPRmh5AIrI)
 
-The Free Market and The Environment Doug Bandow
+* [`The Free Market and The Environment`](https://www.youtube.com/watch?v=EGhMhYf2PQc) Doug Bandow
 
-Are Libertarians Too Anti-Pollution? by Ryan McMaken
+* [`Are Libertarians Too Anti-Pollution?`](https://mises.org/blog/are-libertarians-too-anti-pollution) by Ryan McMaken
 
-Law, Property Rights, and Air Pollution, by Murray Rothbard
+* [`Law, Property Rights, and Air Pollution`](http://mises.org/daily/2120), by Murray Rothbard
 
-The Libertarian Manifesto on Pollution by Murray Rothbard
+* [`The Libertarian Manifesto on Pollution`](https://mises.org/library/libertarian-manifesto-pollution) by Murray Rothbard
 
-Pollution chapter from THE MACHINERY OF FREEDOM by David Friedman
+* [`Pollution chapter from THE MACHINERY OF FREEDOM`](http://daviddfriedman.com/The_Machinery_of_Freedom_.pdf#page=55) by David Friedman
 
-Pollution chapter from For a New Liberty by Murray Rothbard
+* [`Pollution chapter from For a New Liberty`](https://mises.org/sites/default/files/For%20a%20New%20Liberty%20The%20Libertarian%20Manifesto_3.pdf#page=328) by Murray Rothbard
 
 Regulatie
 =====
 
-What Is Regulatory Capture? by Susan Dudley
+* [`What Is Regulatory Capture?`](https://youtu.be/U6CmyKt-65s) by Susan Dudley
 
-How Dirty Laws Trash The Environment by Roger Meiners
+* [`How Dirty Laws Trash The Environment`](https://youtu.be/Fxhk4FuU0YQ) by Roger Meiners
 
-Negative Externalities and the Coase Theorem by Sean Mullholland
+* [`Negative Externalities and the Coase Theorem`](https://youtu.be/zcPRmh5AIrI) by Sean Mullholland
 
-The most dangerous monopoly: When caution kills by Tomasz Kaye & Howard Baetjer Jr.
+* [`The most dangerous monopoly: When caution kills`](https://youtu.be/DvxT7fryE3Q) by Tomasz Kaye & Howard Baetjer Jr.
 
-Is Monopoly a Justification for Government Regulation? by Lynne Kiesling
+* [`Is Monopoly a Justification for Government Regulation?`](https://youtu.be/fujeSSEqj74) by Lynne Kiesling
 
-The Cost of Federal Regulation by National Association of Manufacturers
+* [`The Cost of Federal Regulation by National Association of Manufacturers`](http://www.nam.org/Data-and-Reports/Cost-of-Federal-Regulations/)
 
 
 
