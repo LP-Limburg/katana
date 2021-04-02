@@ -184,10 +184,10 @@ Verwante Podcasts:
 Agorisme
 =======
 
-* https://freedomcells.org/
-* https://agorism.info
-* https://agorist.org
-* https://www.ft.com/content/911b609a-89f6-11e5-9f8c-a8d619fa707c
+* [`Freedomcells`](https://freedomcells.org/) lijst met agoristische projecten
+* [`Agorisme.info`](https://agorism.info)
+* [`Agorist.org`](https://agorist.org)
+* [`Artikel`](https://www.ft.com/content/911b609a-89f6-11e5-9f8c-a8d619fa707c)
 
 
 Oostenrijkse-school
@@ -229,11 +229,11 @@ Alternatieven-voor-alledaagse-dingen
 
 
 
-* Twitter ---> [`Minds`](https://www.minds.com) & Manyverse & Playroma/Mastodon 
+* Twitter ---> [`Minds`](https://www.minds.com) & [`Manyverse`](https://www.manyver.se/) & [`Mastodon`](https://joinmastodon.org/) (beste keus) 
 
 
 
-* SnapChat ---> Dust(app)
+* SnapChat ---> [`Dust(app)`](https://usedust.com/) [`Apple playstore`](https://itunes.apple.com/us/app/dust-a-safer-place-to-text/id690158616?mt=8) [`Google play`](https://play.google.com/store/apps/details?id=com.radicalapps.cyberdust&referrer=utm_source%3Dusedust%26utm_medium%3Dwebsite)
 
 
 
@@ -241,11 +241,11 @@ Alternatieven-voor-alledaagse-dingen
 
 
 
-* Slack/Discord ---> Keybase & Threema
+* Slack/Discord ---> [`Keybase`](https://keybase.io/) & [`Threema`](https://threema.ch/en)
 
 
 
-    Reddit —-> ruqqus.com protip darkmode ;) 
+    Reddit —-> [`ruqqus`](https://ruqqus.com/) protip darkmode ;) 
 
 
 
@@ -257,27 +257,18 @@ Alternatieven-voor-alledaagse-dingen
 
 
 
-                     - LBRY/Odysee
-                     - PeerTube(Libre.video & Maga.host instances)
-                     - Rumble
-                     - BitChute
-                     - D.Tube
-                     - Full30
+                     - [`LBRY`](https://lbry.com/)
+                     - [`PeerTube`](https://joinpeertube.org/)(Libre.video & Maga.host instances)
+                     - [`Rumble`](https://rumble.com/)
+                     - [`BitChute`](https://www.bitchute.com/)
+                     - [`D.Tube`](https://d.tube/)
+                     - [`Full30`](https://www.full30.com/)
 
 
-* YouTube Videos ---> FreeTube(PC) & NewPipe(Mobile)
+* YouTube Videos ---> [`FreeTube(PC)`](https://freetubeapp.io/) & [`NewPipe`](https://newpipe.net/)(Mobile)
 
 
-
-* Patron ---> BitPatron & Crypto Direct Donations
-
-
-
-* Kickstarter/Indigogo ---> GunDynamics(Specialized & Limited)
-
-
-
-* Google ----> DuckDuckGo & SearX
+* Google ----> [`DuckDuckGo`](https://duckduckgo.com/) & [`SearX`](https://searx.me/)
 
 
 
@@ -297,7 +288,7 @@ Alternatieven-voor-alledaagse-dingen
 
 
 
-* Drugdealer---> TailsOS & Tor Browser & PGP encryptie (GPA GUI) | gebruik dark.fail om een drugsmarkt te vinden, gebruik altijd 2FA om jouw account te beveiligen. 
+* Drugdealer---> TailsOS & Tor Browser | gebruik dark.fail om een drugsmarkt te vinden, gebruik altijd 2FA om jouw account te beveiligen. 
 
 
 
