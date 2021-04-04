@@ -42,7 +42,7 @@ Verzameling van resources/info over het libertaire gedachtengoed en gerelateerde
 
 
 
-Twitter-accounts-TK2021
+Twitter accounts TK2021
 ====================
 
 1. https://twitter.com/ValentineRW
@@ -106,7 +106,7 @@ Twitter-accounts-TK2021
 30. Last but not least: https://twitter.com/ArnoWellens
 
 
-Libertaire-actualiteiten
+Libertaire actualiteiten
 =========
 
 
@@ -152,7 +152,7 @@ Reddit
 
 
 
-Libertaire-podcasts
+Libertaire podcasts
 ======
 
 * [`V for Valentine`](https://www.youtube.com/c/VforValentine/videos)
@@ -163,7 +163,7 @@ Libertaire-podcasts
 * [`Dangerous History Podcast`](http://profcj.org/)
 
 
-Verwante Podcasts:
+Verwante podcasts
 
 * [`The Fifth Column`](http://wethefifth.com/)
 * [`Unregistered with Thaddeus Russell`](http://www.thaddeusrussell.com/podcast)
@@ -194,13 +194,13 @@ Agorisme
 * [`Artikel`](https://www.ft.com/content/911b609a-89f6-11e5-9f8c-a8d619fa707c)
 
 
-Oostenrijkse-school
+Oostenrijkse school
 =====
 
 * [`Introductie tot de Oostenrijkse school: Economie voor waardeerders`](https://mises.nl/wp-content/uploads/2016/08/OOSTSCHSsylbew.pdf)
 
 
-Alternatieven-voor-alledaagse-dingen
+Alternatieven voor alledaagse dingen
 ======
 
 
@@ -337,7 +337,7 @@ Alternatieven-voor-alledaagse-dingen
 
 
 
-Introductie-Videos
+Introductie videos
 =====
 
 * [`How to Privatize Everything`](https://youtu.be/S4CcannofnY?list=PL4D57CD110446F6C6) [7:32 min] by David D. Friedman
@@ -545,7 +545,7 @@ Regulatie
 
 
 
-Interessante-personen
+Interessante personen
 =====
 
 
