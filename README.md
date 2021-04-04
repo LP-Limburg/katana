@@ -9,35 +9,35 @@ Verzameling van resources/info over het libertaire gedachtengoed en gerelateerde
 
 ### Index
 
-1. [Twitter-accounts-TK2021](#Twitter-accounts-TK2021)
-2. [Libertaire-actualiteiten](#libertaire-actualiteiten)
+1. [Twitter accounts TK2021](#twitter-accounts-tk2021)
+2. [Libertaire actualiteiten](#libertaire-actualiteiten)
 3. [Reddit](#reddit)
-4. [Libertaire-podcasts](#Libertaire-podcasts)
-5. [Agorisme](#Agorisme)
-6. [Oostenrijkse-school](#Oostenrijkse-school)
-7. [Alternatieven-voor-alledaagse-dingen](#Alternatieven-voor-alledaagse-dingen)
+4. [Libertaire podcasts](#libertaire-podcasts)
+5. [Agorisme](#agorisme)
+6. [Oostenrijkse school](#oostenrijkse-school)
+7. [Alternatieven voor alledaagse dingen](#alternatieven-voor-alledaagse-dingen)
 
 
 ### Introductie
-1. [Introductie-Videos](#Introduction-Videos)
-2. [Videos](#Videos)
-3. [Artikelen](#Artikelen)
-4. [Boeken](#Boeken)
-5. [Objectivisme](#Objectivisme)
+1. [Introductie videos](#introductie-videos)
+2. [Videos](#videos)
+3. [Artikelen](#artikelen)
+4. [Boeken](#boeken)
+5. [Objectivisme](#objectivisme)
 
 
 
 ### Onderwerpen
-1. [Defensie](#Defensie)
-2. [Monopolie](#Monopolie)
-3. [Kartels](#Kartels)
-4. [Vervuiling](#Vervuiling)
-5. [Regulatie](#Regulatie)
-6. [Interessante-personen](#Interessante-personen)
+1. [Defensie](#defensie)
+2. [Monopolie](#monopolie)
+3. [Kartels](#kartels)
+4. [Vervuiling](#vervuiling)
+5. [Regulatie](#regulatie)
+6. [Interessante-personen](#interessante-personen)
 
 
 ### Extra
-1. [Extra](#Extra)
+1. [Extra](#extra)
 
 
 
@@ -560,7 +560,7 @@ Interessante personen
 * [`Ayn Rand`](https://www.wikiwand.com/en/Ayn_Rand) - [`Atlas Shrugged`](https://www.bol.com/nl/p/atlas-shrugged/1001004000968124/?bltgh=hmu88zmzuYoo1I6AO39Fvg.2_17.19.ProductTitle), [`Capitalism, the Unknown Ideal`](https://www.bol.com/nl/p/capitalism/1001004000808284/?bltgh=l8cpq202FRsjFFefPG9OYA.2_9.10.ProductTitle)
 
 
-#Extra
+Extra
 =====
 
 * [`Panarchisme`](https://en.wikipedia.org/wiki/Panarchy#Freely_choosing_government)
