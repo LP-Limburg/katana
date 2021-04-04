@@ -7,7 +7,7 @@ Verzameling van resources/info over het libertaire gedachtengoed en gerelateerde
 
 
 
-# Index
+### Index
 
 1. [Twitter-accounts-TK2021](#Twitter-accounts-TK2021)
 2. [Libertaire-actualiteiten](#libertaire-actualiteiten)
@@ -18,7 +18,7 @@ Verzameling van resources/info over het libertaire gedachtengoed en gerelateerde
 7. [Alternatieven-voor-alledaagse-dingen](#Alternatieven-voor-alledaagse-dingen)
 
 
-# Introductie
+### Introductie
 1. [Introductie-Videos](#Introduction-Videos)
 2. [Videos](#Videos)
 3. [Artikelen](#Artikelen)
@@ -27,7 +27,7 @@ Verzameling van resources/info over het libertaire gedachtengoed en gerelateerde
 
 
 
-# Onderwerpen
+### Onderwerpen
 1. [Defensie](#Defensie)
 2. [Monopolie](#Monopolie)
 3. [Kartels](#Kartels)
@@ -36,7 +36,7 @@ Verzameling van resources/info over het libertaire gedachtengoed en gerelateerde
 6. [Interessante-personen](#Interessante-personen)
 
 
-# Extra
+### Extra
 1. [Extra](#Extra)
 
 
@@ -178,6 +178,7 @@ Verwante Podcasts:
 * [`Short Circuit by the Institute for Justice`](https://ij.org/center-for-judicial-engagement/sc/)
 * [`Rationally Speaking Podcast`](http://rationallyspeakingpodcast.org/)
 * [`Scott Horton Show`](https://scotthorton.org/)
+* [`The Peter Schiff Show`](https://www.schiffradio.com/)
 
 
 
@@ -248,7 +249,7 @@ Alternatieven-voor-alledaagse-dingen
 
 
 
-    Reddit —-> [`ruqqus`](https://ruqqus.com/) protip darkmode ;) 
+* Reddit ---> [`ruqqus`](https://ruqqus.com/) protip darkmode ;) 
 
 
 
@@ -275,11 +276,11 @@ Alternatieven-voor-alledaagse-dingen
 
 
 
-* Chrome Browser ---> [`Brave Browser`](https://brave.com/) & [`Tor Browser`](https://www.torproject.org/download/)
+* Webbrowser ---> [`Brave Browser`](https://brave.com/) & [`Tor Browser`](https://www.torproject.org/download/) & [`Bromite`](https://www.bromite.org/)
 
 
 
-* Android/IOS ----> [`CalyxOS`](https://calyxos.org/) & [`GrapheneOS`](https://grapheneos.org/)
+* Android/iOS ----> [`CalyxOS`](https://calyxos.org/) & [`GrapheneOS`](https://grapheneos.org/)
 
 
 
@@ -306,9 +307,10 @@ Alternatieven-voor-alledaagse-dingen
 - [`CalyxVPN`](https://calyx.net/)
 
 
+- [`Mullvad VPN`](https://mullvad.net/) (betaal met crypto, beste VPN op het moment)
 
-- Mullvad VPN (betaal met crypto, beste VPN op het moment)
 
+- [`ProtonVPN`](https://protonvpn.com/) (betaald en gratis versie)
 
 
 - [`WindscribeVPN`](https://nld.windscribe.com/) (gratis)
@@ -327,7 +329,7 @@ Alternatieven-voor-alledaagse-dingen
 
 
 
-* Apple/Google wachtwoord manager —-> [`Keepassxc`](https://keepassxc.org/)
+* Apple/Google wachtwoord manager —-> [`Keepassxc`](https://keepassxc.org/) & [`Bitwarden`](https://bitwarden.com/)
 
 
 
@@ -429,13 +431,13 @@ Artikelen
 Boeken
 =====
 
-![alt text](https://i.imgur.com/ulHYj6m.jpg)
+![Afbeelding van "Ancap Studies" boekenlijst](https://i.imgur.com/ulHYj6m.jpg)
 
 
 * [`Lessons for the Young Economist`](https://cdn.mises.org/essons_for_the_young_economist_murphy_0.pdf)
 * [`Economics in One Lesson`](https://mises.org/library/economics-one-lesson) by Henry Hazlitt - Hazlitt wrote this book following his stint at the New York Times as an editorialist. His hope was to reduce the whole teaching of economics to a few principles and explain them in ways that people would never forget.
-* [`Een studie over de slechtheid van de staat deel I`](https://www.bol.com/nl/p/een-studie-over-de-slechtheid-van-de-staat-deel-i/9200000046353576/)
-* [`Een studie over de slechtheid van de staat deel II kapitalisme en socialisme`](https://www.bol.com/nl/p/studie-over-slechtheid-van-staat-deel-ii-kapitalisme-socialisme/9200000046353566/?bltgh=oOxrMQCqVd5NdpT2bbdDXg.4_12.13.ProductTitle)
+* [`Een studie over de slechtheid van de staat Deel I: vrijheid en dwang`](https://www.bol.com/nl/p/een-studie-over-de-slechtheid-van-de-staat-deel-i/9200000046353576/)
+* [`Een studie over de slechtheid van de staat Deel II: kapitalisme en socialisme`](https://www.bol.com/nl/p/studie-over-slechtheid-van-staat-deel-ii-kapitalisme-socialisme/9200000046353566/?bltgh=oOxrMQCqVd5NdpT2bbdDXg.4_12.13.ProductTitle)
 * [`The Problem of Political Authority`](http://books.google.com/books/about/The_Problem_of_Political_Authority.html?id=4niZl6Qn2SsC) by Michael Huemer by Michael Huemer
 * [`Anatomy of the State`](https://mises.org/library/anatomy-state) by Murray Rothbard - This gives a succinct account the state following Franz Oppenheimer and Albert Jay Nock, Rothbard regards the state as a predatory entity.
 * [`The Law`](https://mises.org/library/law) by Frédéric Bastiat - How is it that the law enforcer itself does not have to keep the law? How is it that the law permits the state to lawfully engage in actions which, if undertaken by individuals, would land them in jail?
@@ -503,7 +505,7 @@ Monopolie
 Kartels
 ======
 
-* [`Why Parties to Cartels Cheat Khan Academy`](https://www.youtube.com/watch?v=S6TvRDwgQag)
+* [`Why Parties to Cartels Cheat`](https://www.youtube.com/watch?v=S6TvRDwgQag) Khan Academy
 
 * [`Cartels`](http://www.econlib.org/library/Enc/Cartels.html)  by Andrew R. Dick
 
@@ -518,7 +520,7 @@ Vervuiling
 
 * [`Are Libertarians Too Anti-Pollution?`](https://mises.org/blog/are-libertarians-too-anti-pollution) by Ryan McMaken
 
-* [`Law, Property Rights, and Air Pollution`](http://mises.org/daily/2120), by Murray Rothbard
+* [`Law, Property Rights, and Air Pollution`](http://mises.org/daily/2120) by Murray Rothbard
 
 * [`The Libertarian Manifesto on Pollution`](https://mises.org/library/libertarian-manifesto-pollution) by Murray Rothbard
 
@@ -547,7 +549,7 @@ Interessante-personen
 =====
 
 
-* [`Ludwig Von Mises`](https://en.wikipedia.org/wiki/Ludwig_von_Mises) - Notable works include [`Human Action`](https://mises.org/library/human-action-0) and [`Liberalism: In the Classical Tradition.`](https://mises.org/library/liberalism-classical-tradition)
+* [`Ludwig von Mises`](https://en.wikipedia.org/wiki/Ludwig_von_Mises) - Notable works include [`Human Action`](https://mises.org/library/human-action-0) and [`Liberalism: In the Classical Tradition.`](https://mises.org/library/liberalism-classical-tradition)
 * [`Milton Friedman`](https://en.wikipedia.org/wiki/Milton_Friedman) - Notable works include [`Free to Choose`]() and [`Capitalism and Freedom.`]()
 * [`Murray Rothbard`](https://en.wikipedia.org/wiki/Murray_Rothbard) - Grandfather of Anarcho-Capitalism. Notable works include [`Man Economy and State`](https://mises.org/library/man-economy-and-state-power-and-market), [`The Anatomy of the State`](https://mises.org/library/anatomy-state), [`For a New Liberty`](https://mises.org/library/new-liberty-libertarian-manifesto) (audio version) and [`Power & Market`](https://mises.org/library/power-and-market-government-and-economy).
 * [`Frederic Bastiat`](https://en.wikipedia.org/wiki/Fr%C3%A9d%C3%A9ric_Bastiat) - Most notable work is [`The Law.`](https://mises.org/library/law)
