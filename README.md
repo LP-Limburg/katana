@@ -37,7 +37,7 @@ Verzameling van resources/info over het libertaire gedachtengoed en gerelateerde
 
 
 ### Extra
-1. [Extra](#extra)
+1. [Extra](#extra-1)
 
 
 
