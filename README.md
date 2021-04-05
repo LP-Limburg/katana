@@ -118,6 +118,8 @@ Libertaire actualiteiten
 
 * https://mises.nl/
 
+* https://www.aynrandalliantie.nl/
+
 * https://www.lewrockwell.com
 
 * https://www.zerohedge.com
@@ -142,7 +144,6 @@ Libertaire actualiteiten
 
 * https://www.panampost.com (Spaans)
 
-* https://www.aynrandalliantie.nl/
 
 Reddit
 =======
@@ -269,12 +270,12 @@ Alternatieven voor alledaagse dingen
 
 
 
-- [`LBRY`](https://lbry.com/)
-- [`PeerTube`](https://joinpeertube.org/)(Libre.video & Maga.host instances)
-- [`Rumble`](https://rumble.com/)
-- [`BitChute`](https://www.bitchute.com/)
-- [`D.Tube`](https://d.tube/)
-- [`Full30`](https://www.full30.com/)
+   * [`LBRY`](https://lbry.com/)
+   * [`PeerTube`](https://joinpeertube.org/)(Libre.video & Maga.host instances)
+   * [`Rumble`](https://rumble.com/)
+   *- [`BitChute`](https://www.bitchute.com/)
+   * [`D.Tube`](https://d.tube/)
+   * [`Full30`](https://www.full30.com/)
 
 
 * YouTube Videos ---> [`FreeTube(PC)`](https://freetubeapp.io/) & [`NewPipe`](https://newpipe.net/)(Mobile)
@@ -311,17 +312,16 @@ Alternatieven voor alledaagse dingen
 * "Ingognito Mode" ---> VPNs(Gebruik geen NordVPN)
 
 
-
-- [`CalyxVPN`](https://calyx.net/)
-
-
-- [`Mullvad VPN`](https://mullvad.net/) (betaal met crypto, beste VPN op het moment)
+   * [`CalyxVPN`](https://calyx.net/)
 
 
-- [`ProtonVPN`](https://protonvpn.com/) (betaald en gratis versie)
+   * [`Mullvad VPN`](https://mullvad.net/) (betaal met crypto, beste VPN op het moment)
 
 
-- [`WindscribeVPN`](https://nld.windscribe.com/) (gratis)
+   * [`ProtonVPN`](https://protonvpn.com/) (betaald en gratis versie)
+
+
+   * [`WindscribeVPN`](https://nld.windscribe.com/) (gratis)
 
 
 
@@ -441,11 +441,35 @@ Boeken
 
 ![Afbeelding van "Ancap Studies" boekenlijst](https://i.imgur.com/ulHYj6m.jpg)
 
+### Nederlandstalig
+
+
+* [`Achter de nevel`](https://www.bol.com/nl/p/achter-de-nevel/9200000057187000/) Leonardo Pisano (pseudonym van Henk van Ekelenburg)
+* [`Noblesse oblige`](https://www.bol.com/nl/f/noblesse-oblige/9200000083484309/) Leonardo Pisano (pseudonym van Henk van Ekelenburg)
+* [`Een studie over de slechtheid van de staat Deel I: vrijheid en dwang`](https://www.bol.com/nl/p/een-studie-over-de-slechtheid-van-de-staat-deel-i/9200000046353576/) Maarten C. Berg
+* [`Een studie over de slechtheid van de staat Deel II: kapitalisme en socialisme`](https://www.bol.com/nl/p/studie-over-slechtheid-van-staat-deel-ii-kapitalisme-socialisme/9200000046353566/?bltgh=oOxrMQCqVd5NdpT2bbdDXg.4_12.13.ProductTitle) Maarten C. Berg
+* [`De democratie voorbij`](https://www.deslegte.com/de-democratie-voorbij-484064/) Karel Beckman, Frank Karsten
+  * [`De Vliegende Mier`](https://www.bol.com/nl/p/de-vliegende-mier/9200000096390014/) / Edwin J.F. Delsing, 2018
+
+
+```
+Een humoristische versie op Frederik van Eeden's kleine Johannes die ingaat op vrijheid versus dwang
+
+Thematiek. Het individu versus het collectief. Vrije keuzes versus afgedwongen keuzes. Hoe sociaal ben je als je gedwongen wordt sociaal te zijn? Horen vriendschap en sociaal gedrag niet juist vrijwillige keuzes te zijn? Verpest dwang niet de kernwaarde van het leven? Je individualiteit. Je keuzes. Vriendschap. Mag je voor jezelf leven? Is vrijwillige opoffering niet veel meer waard dan dwang? Een betoog voor vrijheid en tegen dwang.
+
+Uitwerking. Een soort van road trip waarbij een vlinder en een mier al trippend en reizend elkaar leren kennen. De mier leert beseffen dat hij een individu is. En zich niet hoeft op te offeren. De vrije vlinder beseft dat daden gevolgen hebben en hij de mier niet in de steek kan laten.
+
+Gelaagdheid. Zeker. Meerdere lagen met een twist.
+
+Varia. Geen toekomst zonder rebellen. Rebellen die in dit verhaal de dwang van de genen volgen, dus in hoeverre zijn het rebellen? In hoeverre is gedrag geprogrammeerd, in hoeverre zijn schijnbare besluiten individuele afwegingen? Is er een opperbaas? Cirkel van het leven.
+Als je hardcore socialist bent zal je je ergeren. Maar wellicht moet je het dan juist lezen.
+```
+
+### Engelstalig
 
 * [`Lessons for the Young Economist`](https://cdn.mises.org/essons_for_the_young_economist_murphy_0.pdf)
 * [`Economics in One Lesson`](https://mises.org/library/economics-one-lesson) by Henry Hazlitt - Hazlitt wrote this book following his stint at the New York Times as an editorialist. His hope was to reduce the whole teaching of economics to a few principles and explain them in ways that people would never forget.
-* [`Een studie over de slechtheid van de staat Deel I: vrijheid en dwang`](https://www.bol.com/nl/p/een-studie-over-de-slechtheid-van-de-staat-deel-i/9200000046353576/)
-* [`Een studie over de slechtheid van de staat Deel II: kapitalisme en socialisme`](https://www.bol.com/nl/p/studie-over-slechtheid-van-staat-deel-ii-kapitalisme-socialisme/9200000046353566/?bltgh=oOxrMQCqVd5NdpT2bbdDXg.4_12.13.ProductTitle)
+
 * [`The Problem of Political Authority`](http://books.google.com/books/about/The_Problem_of_Political_Authority.html?id=4niZl6Qn2SsC) by Michael Huemer by Michael Huemer
 * [`Anatomy of the State`](https://mises.org/library/anatomy-state) by Murray Rothbard - This gives a succinct account the state following Franz Oppenheimer and Albert Jay Nock, Rothbard regards the state as a predatory entity.
 * [`The Law`](https://mises.org/library/law) by Frédéric Bastiat - How is it that the law enforcer itself does not have to keep the law? How is it that the law permits the state to lawfully engage in actions which, if undertaken by individuals, would land them in jail?
