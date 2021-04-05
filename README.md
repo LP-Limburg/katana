@@ -456,9 +456,12 @@ Boeken
 ```
 Een humoristische versie op Frederik van Eeden's kleine Johannes die ingaat op vrijheid versus dwang
 
-Thematiek. Het individu versus het collectief. Vrije keuzes versus afgedwongen keuzes. Hoe sociaal ben je als je gedwongen wordt sociaal te zijn? Horen vriendschap en sociaal gedrag niet juist vrijwillige keuzes te zijn? Verpest dwang niet de kernwaarde van het leven? Je individualiteit. Je keuzes. Vriendschap. Mag je voor jezelf leven? Is vrijwillige opoffering niet veel meer waard dan dwang? Een betoog voor vrijheid en tegen dwang.
+Thematiek. Het individu versus het collectief. Vrije keuzes versus afgedwongen keuzes. Hoe sociaal ben je als je gedwongen wordt sociaal te zijn? 
+Horen vriendschap en sociaal gedrag niet juist vrijwillige keuzes te zijn? Verpest dwang niet de kernwaarde van het leven? 
+Je individualiteit. Je keuzes. Vriendschap. Mag je voor jezelf leven? Is vrijwillige opoffering niet veel meer waard dan dwang? Een betoog voor vrijheid en tegen dwang.
 
-Uitwerking. Een soort van road trip waarbij een vlinder en een mier al trippend en reizend elkaar leren kennen. De mier leert beseffen dat hij een individu is. En zich niet hoeft op te offeren. De vrije vlinder beseft dat daden gevolgen hebben en hij de mier niet in de steek kan laten.
+Uitwerking. Een soort van road trip waarbij een vlinder en een mier al trippend en reizend elkaar leren kennen. 
+De mier leert beseffen dat hij een individu is. En zich niet hoeft op te offeren. De vrije vlinder beseft dat daden gevolgen hebben en hij de mier niet in de steek kan laten.
 
 Gelaagdheid. Zeker. Meerdere lagen met een twist.
 
