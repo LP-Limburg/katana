@@ -449,7 +449,8 @@ Boeken
 * [`Een studie over de slechtheid van de staat Deel I: vrijheid en dwang`](https://www.bol.com/nl/p/een-studie-over-de-slechtheid-van-de-staat-deel-i/9200000046353576/) Maarten C. Berg
 * [`Een studie over de slechtheid van de staat Deel II: kapitalisme en socialisme`](https://www.bol.com/nl/p/studie-over-slechtheid-van-staat-deel-ii-kapitalisme-socialisme/9200000046353566/?bltgh=oOxrMQCqVd5NdpT2bbdDXg.4_12.13.ProductTitle) Maarten C. Berg
 * [`De democratie voorbij`](https://www.deslegte.com/de-democratie-voorbij-484064/) Karel Beckman, Frank Karsten
-  * [`De Vliegende Mier`](https://www.bol.com/nl/p/de-vliegende-mier/9200000096390014/) / Edwin J.F. Delsing, 2018
+
+* [`De Vliegende Mier`](https://www.bol.com/nl/p/de-vliegende-mier/9200000096390014/) / Edwin J.F. Delsing, 2018
 
 
 ```
