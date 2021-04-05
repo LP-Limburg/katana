@@ -33,7 +33,7 @@ Verzameling van resources/info over het libertaire gedachtengoed en gerelateerde
 3. [Kartels](#kartels)
 4. [Vervuiling](#vervuiling)
 5. [Regulatie](#regulatie)
-6. [Interessante-personen](#interessante-personen)
+6. [Interessante personen](#interessante-personen)
 
 
 ### Extra
