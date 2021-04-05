@@ -5,8 +5,6 @@ Verzameling van resources/info over het libertaire gedachtengoed en gerelateerde
 (IN ONTWIKKELING)
 
 
-
-
 ### Index
 
 1. [Twitter accounts TK2021](#twitter-accounts-tk2021)
@@ -17,15 +15,12 @@ Verzameling van resources/info over het libertaire gedachtengoed en gerelateerde
 6. [Oostenrijkse school](#oostenrijkse-school)
 7. [Alternatieven voor alledaagse dingen](#alternatieven-voor-alledaagse-dingen)
 
-
 ### Introductie
 1. [Introductie videos](#introductie-videos)
 2. [Videos](#videos)
 3. [Artikelen](#artikelen)
 4. [Boeken](#boeken)
 5. [Objectivisme](#objectivisme)
-
-
 
 ### Onderwerpen
 1. [Defensie](#defensie)
@@ -35,113 +30,64 @@ Verzameling van resources/info over het libertaire gedachtengoed en gerelateerde
 5. [Regulatie](#regulatie)
 6. [Interessante personen](#interessante-personen)
 
-
 ### Extra
 1. [Extra](#extra-1)
-
-
 
 
 Twitter accounts TK2021
 ====================
 
 1. https://twitter.com/ValentineRW
-
 2. Niet gevonden: Jeroen Weber
-
 3. https://twitter.com/R_Schoenmakers_
-
 4. https://twitter.com/Arnoud_Kuipers
-
 5. https://twitter.com/Wijnand_G_MRE
-
 6. https://twitter.com/netwerknathan
-
 7. https://twitter.com/wbuising
-
 8. Niet gevonden: Yu Mei O 
-
 9. https://twitter.com/SaskiavanBalen
-
 10. https://twitter.com/marconijweide
-
 11. https://twitter.com/WGCornax
-
 12. https://twitter.com/Pallieter
-
 13. Niet gevonden: Peter Hartkamp
-
 14. Volgens mij niet actief: Romy de Man
-
 15. https://twitter.com/NickideHaaij
-
 16. Niet gevonden: LolaDeGrunt
-
 17. Niet gevonden GianniKalkman
-
 18. Niet actief: https://twitter.com/winkelhorst_ria
-
 19. Niet gevonden Rutger Hanssens
-
 20. https://twitter.com/realTomHuijs
-
 21. https://twitter.com/arnoinenlp
-
 22. Niet gevonden: Sander Fischer
-
 23. https://twitter.com/Joeri_NTxNP
-
 24. https://twitter.com/QuintusBackhuys
-
 25. https://twitter.com/rkleinsmit
-
 26. Niet gevonden: Roald Schoenmakers
-
 27. Niet gevonden: Jip Meijer
-
 28. Niet gevonden: romanvanree 
-
 29. Niet gevonden: Loes Engels
-
 30. Last but not least: https://twitter.com/ArnoWellens
 
 
 Libertaire actualiteiten
 =========
 
-
 * https://www.vrijspreker.nl
-
 * https://praxeologie.nl/artikelen-2/
-
 * https://thefriendlysociety.nl/
-
 * https://mises.nl/
-
 * https://www.aynrandalliantie.nl/
-
 * https://www.lewrockwell.com
-
 * https://www.zerohedge.com
-
 * https://www.reason.com
-
 * https://libertarianinstitute.org
-
 * https://www.mises.org
-
 * https://www.beinglibertarian.com
-
 * https://www.cor.ax
-
 * https://www.antiwar.com
-
 * https://www.theintercept.com
-
 * https://www.fee.org
-
 * https://www.wolfstreet.com
-
 * https://www.panampost.com (Spaans)
 
 
@@ -160,7 +106,6 @@ Reddit
 * [`r/liberland`](https://www.reddit.com/r/liberland)
 
 
-
 Libertaire podcasts
 ======
 
@@ -172,7 +117,7 @@ Libertaire podcasts
 * [`Dangerous History Podcast`](http://profcj.org/)
 
 
-Verwante podcasts
+**Verwante podcasts**
 
 * [`The Fifth Column`](http://wethefifth.com/)
 * [`Unregistered with Thaddeus Russell`](http://www.thaddeusrussell.com/podcast)
@@ -188,10 +133,6 @@ Verwante podcasts
 * [`Rationally Speaking Podcast`](http://rationallyspeakingpodcast.org/)
 * [`Scott Horton Show`](https://scotthorton.org/)
 * [`The Peter Schiff Show`](https://www.schiffradio.com/)
-
-
-
-
 
 
 Agorisme
@@ -212,64 +153,19 @@ Oostenrijkse school
 Alternatieven voor alledaagse dingen
 ======
 
-
-
-
-
-
-
 * Euro ---> Goud/zilver & Bitcoin/Monero (Exodus wallet om te wisselen tussen crypto zonder KYC)
-
-
-
 * Banken ---> Peer-to-Peer ([`Bisq`](https://bisq.network/) | [`Bisq uitleg`](https://www.youtube.com/watch?v=slhHF1zoLd4)) 
-
-
-
 * Debit Card/Credit Card/IDEAL---> [`PaySafeCard`](https://www.paysafecard.com/nl-nl/)
-
-
-
 * Digital/App Wallets ---> Hardware Wallet(Air-Gapped &/or "Cold" Wallet)
-
-
-
 * Facebook ---> [`MeWe`](https://www.mewe.com)
-
-
-
 * Instagram ---> [`Parler`](https://www.parler.com)
-
-
-
 * Twitter ---> [`Minds`](https://www.minds.com) & [`Manyverse`](https://www.manyver.se/) & [`Mastodon`](https://joinmastodon.org/) (beste keus) 
-
-
-
-* SnapChat ---> [`Dust(app)`](https://usedust.com/) [`Apple playstore`](https://itunes.apple.com/us/app/dust-a-safer-place-to-text/id690158616?mt=8) [`Google play`](https://play.google.com/store/apps/details?id=com.radicalapps.cyberdust&referrer=utm_source%3Dusedust%26utm_medium%3Dwebsite)
-
-
-
+* Snapchat ---> [`Dust(app)`](https://usedust.com/) [`Apple playstore`](https://itunes.apple.com/us/app/dust-a-safer-place-to-text/id690158616?mt=8) [`Google play`](https://play.google.com/store/apps/details?id=com.radicalapps.cyberdust&referrer=utm_source%3Dusedust%26utm_medium%3Dwebsite)
 * WhatsApp/Telegram ---> Signal & Keybase & Session & TOX & XMPP (jabber) & IRC
-
-
-
 * Slack/Discord ---> [`Keybase`](https://keybase.io/) & [`Threema`](https://threema.ch/en)
-
-
-
 * Reddit ---> [`ruqqus`](https://ruqqus.com/) protip darkmode ;) 
-
-
-
 * SMS ---> Signal
-
-
-
 * YouTube --->
-
-
-
    * [`LBRY`](https://lbry.com/)
    * [`PeerTube`](https://joinpeertube.org/)(Libre.video & Maga.host instances)
    * [`Rumble`](https://rumble.com/)
@@ -277,72 +173,24 @@ Alternatieven voor alledaagse dingen
    * [`D.Tube`](https://d.tube/)
    * [`Full30`](https://www.full30.com/)
 
-
 * YouTube Videos ---> [`FreeTube(PC)`](https://freetubeapp.io/) & [`NewPipe`](https://newpipe.net/)(Mobile)
-
-
-* Google ----> [`DuckDuckGo`](https://duckduckgo.com/) & [`SearX`](https://searx.me/)
-
-
-
+* Google ---> [`DuckDuckGo`](https://duckduckgo.com/) & [`SearX`](https://searx.me/)
 * Webbrowser ---> [`Brave Browser`](https://brave.com/) & [`Tor Browser`](https://www.torproject.org/download/) & [`Bromite`](https://www.bromite.org/)
-
-
-
-* Android/iOS ----> [`CalyxOS`](https://calyxos.org/) & [`GrapheneOS`](https://grapheneos.org/)
-
-
-
+* Android/iOS ---> [`CalyxOS`](https://calyxos.org/) & [`GrapheneOS`](https://grapheneos.org/)
 * Play Store/Apple Store  ---> [`F-Droid`](https://www.f-droid.org/) & [`APKPure`](https://apkpure.com/)
-
-
-
 * Windows/MacOS ---> [`QubesOS`](https://www.qubes-os.org/) & Linux & BSD
-
-
-
-* Drugdealer---> TailsOS & Tor Browser | gebruik dark.fail om een drugsmarkt te vinden, gebruik altijd 2FA om jouw account te beveiligen. 
-
-
-
+* Drugdealer ---> TailsOS & Tor Browser | gebruik dark.fail om een drugsmarkt te vinden, gebruik altijd 2FA om jouw account te beveiligen. 
 * Gmail ---> [`Tutanota`](https://tutanota.com/) & [`ProtonMail`](https://protonmail.com/)
-
-
-
-* "Ingognito Mode" ---> VPNs(Gebruik geen NordVPN)
-
-
+* "Ingognito Mode" ---> VPNs (gebruik geen NordVPN)
    * [`CalyxVPN`](https://calyx.net/)
-
-
    * [`Mullvad VPN`](https://mullvad.net/) (betaal met crypto, beste VPN op het moment)
-
-
    * [`ProtonVPN`](https://protonvpn.com/) (betaald en gratis versie)
-
-
    * [`WindscribeVPN`](https://nld.windscribe.com/) (gratis)
 
-
-
 * Account Registratie ---> [`TempMail`](https://temp-mail.org/nl/), [`get nada`](https://getnada.com/)
-
-
-
 * Samsung/iPhones ---> [`PinePhones(Linux)`](https://www.pine64.org/pinephone/) & [`Purism Phones(Linux)`](https://puri.sm/products/librem-5/)
-
-
-
 * Internetten ---> ZeroNet, Safe Network,  I2P & Tor
-
-
-
-* Apple/Google wachtwoord manager —-> [`Keepassxc`](https://keepassxc.org/) & [`Bitwarden`](https://bitwarden.com/)
-
-
-
-
-
+* Apple/Google wachtwoord manager ---> [`Keepassxc`](https://keepassxc.org/) & [`Bitwarden`](https://bitwarden.com/)
 
 
 Introductie videos
@@ -352,11 +200,9 @@ Introductie videos
 * [`The Machinery Of Freedom: Illustrated summary`](https://www.youtube.com/watch?v=jTYkdEU_B4o&list=PL4D57CD110446F6C6&index=5) [23:15 min] by David D. Friedman, illustrated by Tomasz Kaye
 * [`Law Without Government`](https://youtu.be/A8pcb4xyCic) [14:20 min] by Robert P. Murphy, illustrated by Tomasz Kaye
 
+
 Videos
 =====
-
-
-
 
 * [`The Monopoly On Violence documentary`](https://youtu.be/XWAEKQjN-yM)
 
@@ -375,9 +221,6 @@ Videos
 * [`The Philosophy of Liberty`](https://youtu.be/muHg86Mys7I)
 
 * [`Schools of Thought in Classical Liberalism`](http://www.learnliberty.org/playlists/schools-of-thought-in-classical-liberalism/) - Short video series in which Nigel Ashford articulates five libertarian traditions: the Chicago School, Public Choice, the Austrian School, Natural Rights, and Anarcho-Capitalism.
-
-
-
 
 
 Artikelen
@@ -448,9 +291,10 @@ Boeken
 * [`Noblesse oblige`](https://www.bol.com/nl/f/noblesse-oblige/9200000083484309/) Leonardo Pisano (pseudonym van Henk van Ekelenburg)
 * [`Een studie over de slechtheid van de staat Deel I: vrijheid en dwang`](https://www.bol.com/nl/p/een-studie-over-de-slechtheid-van-de-staat-deel-i/9200000046353576/) Maarten C. Berg
 * [`Een studie over de slechtheid van de staat Deel II: kapitalisme en socialisme`](https://www.bol.com/nl/p/studie-over-slechtheid-van-staat-deel-ii-kapitalisme-socialisme/9200000046353566/?bltgh=oOxrMQCqVd5NdpT2bbdDXg.4_12.13.ProductTitle) Maarten C. Berg
-* [`De democratie voorbij`](https://www.deslegte.com/de-democratie-voorbij-484064/) Karel Beckman, Frank Karsten
-
-* [`De Vliegende Mier`](https://www.bol.com/nl/p/de-vliegende-mier/9200000096390014/) / Edwin J.F. Delsing, 2018
+* [`De democratie voorbij`](https://www.bol.com/nl/p/de-democratie-voorbij/1001004010214634/) Karel Beckman, Frank Karsten
+* [`De Staat Voorbij`](https://www.bol.com/nl/p/de-staat-voorbij/9200000075662028/) Karel Beckman
+* [`De discriminatiemythe`](https://www.bol.com/nl/p/de-discriminatiemythe/9200000095756144/) Frank Karsten
+* [`De Vliegende Mier`](https://www.bol.com/nl/p/de-vliegende-mier/9200000096390014/) Edwin J.F. Delsing
 
 
 ```
@@ -471,23 +315,36 @@ Als je hardcore socialist bent zal je je ergeren. Maar wellicht moet je het dan 
 
 ### Engelstalig
 
-* [`Lessons for the Young Economist`](https://cdn.mises.org/essons_for_the_young_economist_murphy_0.pdf)
+* [`Lessons for the Young Economist`](https://cdn.mises.org/essons_for_the_young_economist_murphy_0.pdf) by Robert P. Murphy
 * [`Economics in One Lesson`](https://mises.org/library/economics-one-lesson) by Henry Hazlitt - Hazlitt wrote this book following his stint at the New York Times as an editorialist. His hope was to reduce the whole teaching of economics to a few principles and explain them in ways that people would never forget.
-
 * [`The Problem of Political Authority`](http://books.google.com/books/about/The_Problem_of_Political_Authority.html?id=4niZl6Qn2SsC) by Michael Huemer by Michael Huemer
-* [`Anatomy of the State`](https://mises.org/library/anatomy-state) by Murray Rothbard - This gives a succinct account the state following Franz Oppenheimer and Albert Jay Nock, Rothbard regards the state as a predatory entity.
+* [`Anatomy of the State`](https://mises.org/library/anatomy-state) by Murray N. Rothbard - This gives a succinct account the state following Franz Oppenheimer and Albert Jay Nock, Rothbard regards the state as a predatory entity.
 * [`The Law`](https://mises.org/library/law) by Frédéric Bastiat - How is it that the law enforcer itself does not have to keep the law? How is it that the law permits the state to lawfully engage in actions which, if undertaken by individuals, would land them in jail?
-* [`Chaos Theory`](https://mises.org/library/chaos-theory) by Robert Murphy - Murphy takes the role of market insurance in property security and extends the analysis to the security of person. Wonderful piece of reading, here's the audio version also available as free download on iTunes.
-* [`For a New Liberty: The Libertarian Manifesto`](https://mises.org/library/new-liberty-libertarian-manifesto) by Murray N. Rothbard - Libertarianism is Murray N. Rothbard's radical alternative that says state power is unworkable and immoral and ought to be curbed and finally abolished. Rothbard deploys: natural law, natural rights, Austrian economics, American history, the theory of the state, and more to make his case.
+* [`Chaos Theory`](https://mises.org/library/chaos-theory) by Robert P. Murphy - Murphy takes the role of market insurance in property security and extends the analysis to the security of person. Wonderful piece of reading, here's the audio version also available as free download on iTunes.
 * [`No Treason by Lysander Spooner`](http://praxeology.net/LS-NT-6.htm) - Murray N. Rothbard considered No Treason, "the greatest case for anarchist political philosophy ever written."
-* [`The Essential Von Mises`](https://mises.org/library/essential-von-mises) by Murray Rothbard - Another PDF with a description at the target site.
-* [`The Machinery of Freedom`](http://www.daviddfriedman.com/The_Machinery_of_Freedom_.pdf) by David D. Friedman - Direct link to the PDF as well as the audio version. This book does a wonderful job of introducing the reader to how a world without government would function and helps to guide you through a few objections to AnCap theory.
-* [`Defending the Undefendable`](https://mises.org/library/defending-undefendable) by Walter Block - Yet another free PDF! This book is probably more suited for people more acquainted with AnCap/Libertarian ideas, but a good read nonetheless.
-* [`Defending the Undefendable 2`](https://cdn.mises.org/defending_the_undefendable_ii.pdf)
+
+* [`The Mises Reader Unabridged`](https://mises.org/library/mises-reader-unabridged) edited by Shawn Ritenour
+* [`Mises: The Last Knight of Liberalism`](https://mises.org/library/mises-last-knight-liberalism-0) by Jörg Guido Hülsmann
+* [`The Essential von Mises`](https://mises.org/library/essential-von-mises) by Murray Rothbard
+* [`Human Action`](https://mises.org/library/human-action-0) by Ludwig von Mises
+* [`Socialism: An Economic and Sociological Analysis`](https://mises.org/library/socialism-economic-and-sociological-analysis) by Ludwig von Mises
+* [`The Anti-Capitalistic Mentality`](https://mises.org/library/anti-capitalistic-mentality) by Ludwig von Mises
+* [`Liberty and Property`](https://mises.org/library/liberty-and-property) by Ludwig von Mises
+
+* [`The Machinery of Freedom`](http://www.daviddfriedman.com/The_Machinery_of_Freedom_.pdf) by David D. Friedman - This book does a wonderful job of introducing the reader to how a world without government would function and helps to guide you through a few objections to AnCap theory. 
+* [`Defending the Undefendable`](https://mises.org/library/defending-undefendable) by Walter Block - This book is probably more suited for people more acquainted with AnCap/Libertarian ideas, but a good read nonetheless.
+* [`Defending the Undefendable 2`](https://mises.org/library/defending-undefendable-2) by Walter Block
+
 * [`The Market for Liberty`]() by Linda and Morris Tannehill - Often overlooked, this book was the fist book on anarcho-capitalism and has held up well over time.
 * [`The Sovereign Individual: Mastering the Transition to the Information Age`](https://www.goodreads.com/book/show/82256.The_Sovereign_Individual) by James Dale Davidson, William Rees-Mogg
 * [`Anarcho-Capitalism: An Annotated Bibliography`](https://www.lewrockwell.com/2001/12/hans-hermann-hoppe/anarcho-capitalism-2/) by Hans-Hermann Hoppe. Large list of essential reading on anarcho-capitalism.
+ 
+* [`The Rothbard Reader`](https://mises.org/library/rothbard-reader) by Murray N. Rothbard
+* [`Man, Economy, and State, with Power and Market`](https://mises.org/library/man-economy-and-state-power-and-market) by Murray N. Rothbard
+* [`What Has Government Done to Our Money?`](https://mises.org/library/what-has-government-done-our-money) by Murray N. Rothbard
+* [`For a New Liberty: The Libertarian Manifesto`](https://mises.org/library/new-liberty-libertarian-manifesto) by Murray N. Rothbard - Libertarianism is Murray N. Rothbard's radical alternative that says state power is unworkable and immoral and ought to be curbed and finally abolished. Rothbard deploys: natural law, natural rights, Austrian economics, American history, the theory of the state, and more to make his case.
 * [`The Ethics of Liberty`](https://mises.org/library/ethics-liberty) by Murray N. Rothbard. A Natural Law approach to libertarian ethics.
+ 
 * [`Arguments for Liberty`](https://www.libertarianism.org/books/arguments-liberty) edited by Aaron Ross Powell and Grant Babcock. A compilation of Utilitarianism, Natural Rights, Kantianism, Contractarianism, Rawlsianism, Virtue Ethics, Objectivism, Ethical Intuitionism, and Moral Pluralism approaches to libertarianism.
 * [`The Economics of Non-state Legal Systems`](http://www.libertarian.co.uk/lapubs/legan/legan026.pdf) by Bryan Caplan
 * [`Anarchy and the Law: The Political Economy of Choice`](https://www.goodreads.com/book/show/614357.Anarchy_and_the_Law) by Edward P. Stringham (Editor)
@@ -586,9 +443,10 @@ Interessante personen
 
 
 * [`Ludwig von Mises`](https://en.wikipedia.org/wiki/Ludwig_von_Mises) - Notable works include [`Human Action`](https://mises.org/library/human-action-0) and [`Liberalism: In the Classical Tradition.`](https://mises.org/library/liberalism-classical-tradition)
+* [`Carl Menger`](https://en.wikipedia.org/wiki/Carl_Menger) - The founder of the Austrian School of economics. His most notable books is [`Principles of Economics`](https://mises.org/library/principles-economics)
 * [`Milton Friedman`](https://en.wikipedia.org/wiki/Milton_Friedman) - Notable works include [`Free to Choose`]() and [`Capitalism and Freedom.`]()
-* [`Murray Rothbard`](https://en.wikipedia.org/wiki/Murray_Rothbard) - Grandfather of Anarcho-Capitalism. Notable works include [`Man Economy and State`](https://mises.org/library/man-economy-and-state-power-and-market), [`The Anatomy of the State`](https://mises.org/library/anatomy-state), [`For a New Liberty`](https://mises.org/library/new-liberty-libertarian-manifesto) (audio version) and [`Power & Market`](https://mises.org/library/power-and-market-government-and-economy).
-* [`Frederic Bastiat`](https://en.wikipedia.org/wiki/Fr%C3%A9d%C3%A9ric_Bastiat) - Most notable work is [`The Law.`](https://mises.org/library/law)
+* [`Murray Rothbard`](https://en.wikipedia.org/wiki/Murray_Rothbard) - Grandfather of Anarcho-Capitalism. Notable works include [`Man Economy and State`](https://mises.org/library/man-economy-and-state-power-and-market), [`The Anatomy of the State`](https://mises.org/library/anatomy-state), [`For a New Liberty`](https://mises.org/library/new-liberty-libertarian-manifesto) and [`Power & Market`](https://mises.org/library/power-and-market-government-and-economy).
+* [`Frédéric Bastiat`](https://en.wikipedia.org/wiki/Fr%C3%A9d%C3%A9ric_Bastiat) - Most notable work is [`The Law.`](https://mises.org/library/law)
 * [`Henry Hazlitt`](https://en.wikipedia.org/wiki/Henry_Hazlitt) - Most notable work is [`Economics in One Lesson`](https://mises.org/library/economics-one-lesson).
 * [`Friedrich Hayek`](https://en.wikipedia.org/wiki/Friedrich_Hayek) - Works include [`The Road to Serfdom`](https://mises.org/library/road-serfdom-0) and [`The Constitution of Liberty`](https://iea.org.uk/sites/default/files/publications/files/Hayek%27s%20Constitution%20of%20Liberty.pdf).
 * [`David Friedman`](http://www.daviddfriedman.com/) - The homepage for Mr. Friedman looks rather sketchy, but it has some good resources on his talks! His most notable work is [`The Machinery of Freedom`](http://www.daviddfriedman.com/The_Machinery_of_Freedom_.pdf).
